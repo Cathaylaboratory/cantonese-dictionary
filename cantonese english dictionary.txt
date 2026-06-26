@@ -2,7 +2,8 @@
 # Cantonese Dictionary in National Language Script
 # Author: Vòng Vân Hạu
 # First Published: 2026-06-26
-# Version 2026-06-26
+# Version: 2026-06-26
+# The orthography in this dictionary is based on typical Canton city or Hong Kong accent Cantonese.
 #
 # Copyright (c) 2026 Vòng Vân Hạu
 #
