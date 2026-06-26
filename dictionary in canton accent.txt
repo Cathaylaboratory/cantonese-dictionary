@@ -26,6 +26,9 @@
 一串 {dât xuyến} /a series of/
 一九九七年 {dât cẩu cẩu xât niền} /Year 1997/
 一九四九年 {dât cẩu sý cẩu niền} /Year 1949/
+一九八九年 {dât cẩu bát cẩu niền} /Year 1989/
+一九七五年 {dât cẩu txât ñg niền} /Year 1975/
+一九五四年 {dât cẩu ñg sý niền} /Year 1954/
 一事 {dât sị} /A matter/
 一二 {dât dị} /one or two, a little, a few, one by one/
 一些些 {dât se se} /A little bit/
@@ -2217,7 +2220,7 @@
 冇乜好死 {mỗ mât hổ sỷ} /nothing left to worry about/
 冇乜所謂 {mỗ mât sỏ vỵ} /does not matter much, not important/
 冇乜滯 {mỗ mât chệ} /nothing really left or remain/
-冇乜點 {mỗ me điểm} /nothing special/
+冇乜點 {mỗ me tỉm} /nothing special/
 冇事 {mỗ sị} /all the same; alright; no problem/
 冇交易 {mỗ kao dịch} /no sale; no deal/
 冇人有 {mỗ dần dẫu} /nobody else has it, nobody else can compare with/
@@ -3191,7 +3194,7 @@
 又要 {dậu diếu} /also want or need/
 又試 {dậu sí} /once again; to try again/
 又話 {dậu vạ} /say also; referring to things one said before, similar to saying "didn't you say…?"/
-又點話 {dậu điểm vạ} /no problem; it doesn't matter; to indicate that someone doesn't care/
+又點話 {dậu tỉm vạ} /no problem; it doesn't matter; to indicate that someone doesn't care/
 叉 {xa} /(verb) 1. skewer; 2. stab; (verb) to choke someone's neck with hand/
 叉燒腸 {xa siêu xường} /char siu (barbequed pork) rice noodle roll/
 叉燒酥 {xa siêu sô} /char siu (barbequed pork) pastie/
@@ -3984,13 +3987,13 @@
 唔理三七廿一 {m̀ lỹ sam xât dạ dât} /regardless of consequences/
 唔理 {m̀ lỹ} /never mind; don't care; to not care about; regardless/
 唔理得咁多 {m̀ lỹ đăc cấm đo} /cannot care about everything/
-唔理點 {m̀ lỹ điểm} /no matter what/
+唔理點 {m̀ lỹ tỉm} /no matter what/
 唔生性 {m̀ sanh sính} /(slang) immature; not sensible/
 唔相干 {m̀ sương con} /not relevant/
 唔瞅唔睬 {m̀ xâu m̀ xỏi} /to ignore someone/
-唔知個死字點寫 {m̀ chi có sỷ chị điểm sẻ} /not knowing the meaning of fear, to be unaware of danger/
-唔知個羞字點寫 {m̀ chi có sâu chị điểm sẻ} /feeling shameless even after doing shameful things/
-唔知個醜字點寫 {m̀ chi có xẩu chị điểm sẻ} /do not know how to write the word of , which is used to refer to somebody is shameless/
+唔知個死字點寫 {m̀ chi có sỷ chị tỉm sẻ} /not knowing the meaning of fear, to be unaware of danger/
+唔知個羞字點寫 {m̀ chi có sâu chị tỉm sẻ} /feeling shameless even after doing shameful things/
+唔知個醜字點寫 {m̀ chi có xẩu chị tỉm sẻ} /do not know how to write the word of , which is used to refer to somebody is shameless/
 唔知 {m̀ chi} /don't know (spoken)/
 唔知好醜 {m̀ chi hổ xẩu} /doesn't matter if it is good or bad | one who does not accept kindness or good intentions from others/
 唔知幾 {m̀ chi kỷ} /don't know why it is so…/
@@ -3998,7 +4001,7 @@
 唔知衰 {m̀ chi sui} /not feeling regretful or one has done something wrong even after doing bad | wrong things/
 唔知道 {m̀ chi đố} /do not know/
 唔知醜 {m̀ chi xẩu} /(slang) someone is unashamed; shameless; brazen/
-唔知醜字點寫 {m̀ chi xẩu chị điểm sẻ} /feeling shameless even after doing shameful things/
+唔知醜字點寫 {m̀ chi xẩu chị tỉm sẻ} /feeling shameless even after doing shameful things/
 唔禁 {m̀ khâm} /not dare to/
 唔等使 {m̀ đẳng sẩy} /useless or impractical/
 唔算 {m̀ suyến} /to disregard or not count/
@@ -7613,7 +7616,7 @@
 想想 {sưởng sưởng} /verb; to think or think twice/
 想望 {sưởng mọng} /verb; hope; admire/
 想話 {sưởng vạ} /thinking of… (doing something); want to say/
-想點就點 {sưởng điểm chậu điểm} /do whatever one wants to do/
+想點就點 {sưởng tỉm chậu tỉm} /do whatever one wants to do/
 惶惶不可終日 {vòng vòng bât hỏ chung dật} /adj; Anxious, confused, restless looking . It describes people in extreme horror, nervous/
 惹味 {dẽ mỵ} /Delicious, taste outstanding, also, to provoke people/
 惹埋 {dẽ mài} /to get infected; to attract/
@@ -12002,7 +12005,7 @@
 炸雞翼 {chá kê dịch} /(noun) deep fried chicken wings/
 炸雲吞 {chá vần thân} /deep fried wonton dumplings/
 炸麵 {chá mịn} /deep fried noodles/
-点样 {điểm dưởng} /how?/
+点样 {tỉm dưởng} /how?/
 為 {vỵ} /(conjunction) 1. As; (verb) | do; (noun) | behaviour; 2. Conduct; (of suffix) used after an adverb or after an adjective to form an adverb./
 為乜 {vỳ me} /(interrogative adverb) what for; why/
 為人 {vỳ dần} /(verb) 1. to consider and think of other's interest; (preposition) for others/
@@ -18761,7 +18764,7 @@
 鍾子期 {chung chỉ khỳ} /Zhong Ziqi, a historical person in ancient China, in a classical literary allusion from the story with Bo Ya(伯牙), referring to the harsh reality that talent and ability can rarely meet and find people who can really appreciate them/
 鍾山 {chung san} /Zhongshan, a place in China/
 鍾意 {chung dí} /to like/
-鍾意點就點 {chung dí điểm chậu điểm} /do whatever you like/
+鍾意點就點 {chung dí tỉm chậu tỉm} /do whatever you like/
 鍾欣桐 {chung dân thùng} /Gillian Chung, a Hong Kong singer and actress/
 鍾落潭 {chung lọc thàm} /Zhong Luo Tan, a place in Canton city, China/
 鍾馗 {chung khùy} /Zhong Kui, figure of Chinese mythology, regarded as a vanquisher of ghosts and evil beings, and commonly seen amongst households as a guardian spirit./
@@ -21055,29 +21058,30 @@
 黚 {khiềm} /a light yellowish -blackish colour/
 黛綠 {đọi lục} /dark green/
 黜陟 {chuyệt chich} /demotion and promotion/
-點不知 {điểm bât chi} /unexpectedly (spoken)/
-點係 {điểm hệ} /an expression of courtesy used when someone has done something for you, similar to saying "it is very nice of you"; "I don't deserve it"; "you shouldn't have"/
-點做 {điểm chộ} /what to do; how/
-點可以 {điểm hỏ dĩ} /how could this be; how can../
-點呀 {điểm a} /so?; how about?/
-點少得 {điểm siểu đăc} /how can one not count … in; how can one do without…; how can one forget…/
-點得 {điểm đăc} /how could/
+點不知 {tỉm bât chi} /unexpectedly (spoken)/
+點係 {tỉm hệ} /an expression of courtesy used when someone has done something for you, similar to saying "it is very nice of you"; "I don't deserve it"; "you shouldn't have"/
+點做 {tỉm chộ} /what to do; how/
+點可以 {tỉm hỏ dĩ} /how could this be; how can../
+點呀 {tỉm a} /so?; how about?/
+點少得 {tỉm siểu đăc} /how can one not count … in; how can one do without…; how can one forget…/
+點得 {tỉm đăc} /how could/
 點指兵兵 {điểm chỉ binh binh} /'who's cops who's thieves', a children's game of 'counting-out' | 'it'/
-點樣 {điểm dưởng} /(question)(phrase) what's with it?; what's up? ; how's it like?; how?; what is it like?/
+點樣 {tỉm dưởng} /(question)(phrase) what's with it?; what's up? ; how's it like?; how?; what is it like?/
 點歌 {điểm co} /to request a song/
-點止 {điểm chỉ} /not only (spoken)/
+點止 {tỉm chỉ} /not only (spoken)/
 點火 {điểm phỏ} /to provoke/
-點 {điểm} /(adverb) 1. What; 2. How (noun) 1. snack (dim sum); 2. hour; (verb) 1. examine; 2. check; (verb) (of head) to nod/
-點睇 {điểm thẩy} /how do you see this? (spoken)/
-點知 {điểm chi} /"how would I know?"; "who knows?"; "God knows"; "how is one to know"; "who would have thought"; "who would have guessed"; "only to"/
-點算好呢 {điểm suyến hổ ne} /(don't know) what to do?; how to resolve this? (with a tone of despair)/
-點算好 {điểm suyến hổ} /what to do/
-點算 {điểm suyến} /what should one do?; what to do?; how to resolve this?/
+點 {điểm} /(adverb) 1. snack (dim sum); 2. hour; (verb) 1. examine; 2. check; (verb) (of head) to nod/
+點 {tỉm} /(adverb) 1. What; 2. How (noun)
+點睇 {tỉm thẩy} /how do you see this? (spoken)/
+點知 {tỉm chi} /"how would I know?"; "who knows?"; "God knows"; "how is one to know"; "who would have thought"; "who would have guessed"; "only to"/
+點算好呢 {tỉm suyến hổ ne} /(don't know) what to do?; how to resolve this? (with a tone of despair)/
+點算好 {tỉm suyến hổ} /what to do/
+點算 {tỉm suyến} /what should one do?; what to do?; how to resolve this?/
 點紅點綠 {điểm hùng điểm lục} /giving wrong instructions or advice (slang)/
-點解 {điểm kải} /(pronoun) why; how to explain; how come;/
-點話點好 {điểm vạ điểm hổ} /"up to you"; "as you wish"; "whatever you say"/
-點都好 {điểm đô hổ} /no matter how/
-點都要 {điểm đô diếu} /need it anyway; to need to do something no matter what/
+點解 {tỉm kải} /(pronoun) why; how to explain; how come;/
+點話點好 {tỉm vạ tỉm hổ} /"up to you"; "as you wish"; "whatever you say"/
+點都好 {tỉm đô hổ} /no matter how/
+點都要 {tỉm đô diếu} /need it anyway; to need to do something no matter what/
 點醒 {điểm sỉnh} /remind (spoken) | give you tips (spoken)/
 點香 {điểm hương} /to light a joss stick/
 黠吏 {khiết lỵ} /crafty officials/
@@ -22607,7 +22611,7 @@
 你講嘢呀 {nỹ cỏng dẽ á} /'did you say something?' (said in a rhetorical way when you try to mock someone if you disagree with what they have said or think they are talking a load of nonsense)/
 你貴寶號 {nỹ qúy bổ hộ} /your shop/
 你邊度 {nỹ biên độ} /where are you from?; where are you…; where did you…/
-你鐘意點就點 {nỹ chung dí điểm chậu điểm} /whatever you want to do; anyway you like; do whatever you like; up to you; as you wish/
+你鐘意點就點 {nỹ chung dí tỉm chậu tỉm} /whatever you want to do; anyway you like; do whatever you like; up to you; as you wish/
 你隻嘢 {nỹ chếc dẽ} /you rascal; you devil; you scoundrel/
 你鹵味 {nỹ lỗ mỷ} /literally: 'you marinated food', euphemism for '你老母', foul language insulting one's mother when cursing someone/
 佢死佢賤 {khùi sỷ khùi chiện} /whatever happens to him | her is none of my concern; I don't give a damn about him | her/
@@ -22624,7 +22628,7 @@
 便餐桌 {biện xan xước} /a fold out food tray; a luncheonette | lunch counter/
 係乜東東 {hệ mât đung đung} /what the heck is it?/
 係又噏唔係又噏 {hệ dậu âp m̀ hệ dậu âp} /talking nonsense; describes someone who just say whatever that comes out of their mouth without giving any regards as to whether it is appropriate or whether it makes any sense or not/
-係又點唔係又點啫 {hệ dậu điểm m̀ hệ dậu điểm che} /so what if it is or isn't; it makes no difference either way/
+係又點唔係又點啫 {hệ dậu tỉm m̀ hệ dậu tỉm che} /so what if it is or isn't; it makes no difference either way/
 係咁先 {hệ cẩm siên} /bye now!; that's it for now; that's all for now; gotta go!/
 係咩 {hệ me} /really?/
 係唔係先 {hệ m̀ hệ siên} /isn't that so?/
@@ -24583,8 +24587,8 @@
 矇眼仔 {mùng ngãn chẩy} /a foolish kid/
 矖招 {sái chiêu} /to show off/
 矖馬 {sái mã} /a show of force by triad gangs to show one's strength in numbers for fighting/
-知唔知個死字點寫 {chi m̀ chi có sỷ chị điểm sẻ} /are you tired of life? (used as a threat)/
-知唔知個醜字點寫 {chi m̀ chi có xẩu chị điểm sẻ} /have you no shame?/
+知唔知個死字點寫 {chi m̀ chi có sỷ chị tỉm sẻ} /are you tired of life? (used as a threat)/
+知唔知個醜字點寫 {chi m̀ chi có xẩu chị tỉm sẻ} /have you no shame?/
 知唔知埞呀 {chi m̀ chi đệnh á} /do you know what you are doing (said in a hostile tone)/
 知埞 {chi đệnh} /to know what one is doing; to understand the rules of the game/
 知士 {chi sỉ} /cheese (loanword)/
@@ -25237,7 +25241,7 @@
 鎙氣 {sóc hý} /to be short of breath/
 鏡錫 {kệnh sếc} /to take good care of/
 鐘意咗 {chung dí chỏ} /to have fallen in love with/
-鐘意點就點 {chung dí điểm chậu điểm} /whatever you like; whatever one wishes/
+鐘意點就點 {chung dí tỉm chậu tỉm} /whatever you like; whatever one wishes/
 鐘房 {chung phỏng} /the manager of a hourly love hotel/
 鐵竇 {thiết đấu} /a vice or gambling den located in a secure location where criminal or illegal activitites are carried out, often safe from the police as a result of connections or bribery/
 鑊仔 {vọc chẩy} /literally : a small wok ; sex with an underage girl/
@@ -25514,8 +25518,8 @@
 黑道大鱷 {hăc độ đại ngọc} /someone who is well known to have a lot of power and authority in the underworld/
 黑醋汁 {hăc xố châp} /balsamic vinegar/
 默默無言 {mặc mặc mồ diền} /in silence; to say nothing; to not utter a word/
-點樣做 {điểm dưởng chộ} /how to do something; how to handle something/
-點止咁簡單 {điểm chỉ cấm kản đan} /it's not so simple/
+點樣做 {tỉm dưởng chộ} /how to do something; how to handle something/
+點止咁簡單 {tỉm chỉ cấm kản đan} /it's not so simple/
 點相 {điểm sướng} /to be picked out (usually for something bad, such as for revenge)/
 點錯相 {điểm xó sướng} /to pick out the wrong person for (usually for something bad, such as for revenge)/
 豉椒炒魷 {sị chiêu xảo dầu} /literally: fried squid in black bean sauce; to get the sack; to be fired/
