@@ -42,7 +42,7 @@
 一任 {dât dậm} /Allow; let (somebody do as he pleases); A term/
 一份 {dât phận} /a portion/
 一住 {dât chự} /Live in/
-一來到 {dât lề đố} /When one's first got here/
+一嚟到 {dât lầy đố} /When one's first got here/
 一便 {dât biện} /aside, while/
 一係 {dât hệ} /(conjunction) neither; either or also; or, used when you want to make a suggestion, similar to the meaning of "what about…?" | "how about…"/
 一個 {dât có} /a; one/
@@ -571,7 +571,6 @@
 不嬲 {bât nâu} /always; all along/
 不小心駕駛 {bât siểu sâm ká sể} /careless driving/
 不常 {bât sường} /Seldom/
-不幸的是 {bât hặng đich sị} /Unfortunately/
 不得好死 {bât đăc hổ sỷ} /not deserve a peaceful death, to curse someone to die terrifyingly/
 不忠 {bât chung} /Disloyalty/
 不惑之年 {bât vạch chi niền} /the years where one can make wiser decisions, which usually refers to decade commencing when one reaches 40 years old/
@@ -591,7 +590,6 @@
 不濟事 {bât chế sị} /Not working;not useful/
 不為五斗米折腰 {bât vỵ ñg đẩu mễ chiết diêu} /would not compromise for living or survival/
 不無道理 {bât mồ độ lỹ} /make sense | reasonable/
-不然的話 {bât diền đich vạ} /Otherwise/
 不特只 {bât đặc chỉ} /Not only/
 不特止 {bât đặc chỉ} /not only/
 不甘後人 {bât câm hậu dần} /not content to fall behind or not to exceed/
@@ -912,7 +910,7 @@
 乾鯁鯁 {con cẳng cẳng} /Swallow something without drinking anything/
 亂 {luyện} /in confusion or disorder | in a confused state of mind | disorder | upheaval | riot | illicit sexual relations, to commit incest with | to throw into disorder | to mix up | indiscriminate | random | arbitrary | to disturb | rebellious | without order or restraint | # adapted from cc-cedict/
 亂作一團 {luyện chóc dât thuyền} /end up in a huge mess/
-亂來 {luyện lề} /Recklessly;unruly/
+亂嚟 {luyện lầy} /Recklessly;unruly/
 亂咁 {luyện cấm} /Casually;randomly/
 亂咁舂 {luyện cấm chung} /(adj.) describes someone who does something without directions; (phrasal verb) to do something without thinking thoroughly./
 亂噏 {luyển ngâp} /to talk nonsense; to jabber on; to babble/
@@ -1206,13 +1204,11 @@
 仔細老婆嫩 {chẩy sế lỗ pò nuyện} /one's child(ren) and wife are still young/
 仕進 {sị chuấn} /become more hard-working and positive in order to achieve something/
 他他條條 {tha tha thiều thiều} /take it slow or relaxing/
-他們的 {tha mùn đich} /their/
 他心 {tha sâm} /other people's mind; other mind/
 他方 {tha phong} /elsewhere/
 他日 {tha dật} /another day in the future/
 他朝 {tha chiêu} /someday in the future/
 他條 {tha thiều} /relaxed; leisurely/
-他的 {tha đich} /his/
 仗 {chướng} /6. war 7. battle 8. cane | # adapted from cc-cedict/
 付息 {phụ sich} /Payment of interest/
 付排 {phụ pài} /Send to the compositor/
@@ -1425,7 +1421,6 @@
 作雨 {chóc dữ} /Rain/
 佞人 {nịnh dần} /one who sucks up or sweet-talk for their own benefits/
 佞臣 {nịnh sần} /government officials who sucks up or sweet-talk to leaders for their own benefits/
-你們的 {nỹ mùn đich} /your; yours/
 你做初一，我做十五 {nỹ chộ xo dât ，ngõ chộ sập ñg} /tit for tat; eye for an eye/
 你做初一我做十五 {nỹ chộ xo dât ngõ chộ sập ñg} /an eye for an eye, a tooth for a tooth; one is being forced to commit evil acts because others are being evil to him | her/
 你先 {nỹ siên} /You first/
@@ -1440,7 +1435,6 @@
 你就想 {nỹ chậu sưởng} /you wish (spoken)/
 你有張良計，我有過牆梯 {nỹ dẫu chương lường kế ，ngõ dẫu quó xường thê} /one always can come up with a strategy to overcome another strategy/
 你東我西 {nỹ đung ngõ sê} /You and me go a different way/
-你的 {nỹ đich} /your/
 你自己 {nỹ chị kỷ} /you yourself, on your own/
 你諗你 {nỹ nẩm nỹ} /You figure it out/
 佢 {khũi} /he | she | it (Cantonese) | Mandarin equivalent: 他tā | # adapted from cc-cedict/
@@ -1483,7 +1477,7 @@
 來人 {lòi dần} /it is a line used by a master to summon one's servant/
 來勢 {lòi sế} /seem to, the approaching situation/
 來料加工 {lòi liểu ka cung} /processing on order with customer's provided material/
-來 {lề /lòi} | to come | to arrive | to come round | ever since | next | for | in | during | over | used after a verb to indicate that an action has happened | to do something | an interjection | a surname | used after a number when listing out points | used after a sentence to add emphasis | # adapted from cc-cedict/
+來 {lầy /lòi} | to come | to arrive | to come round | ever since | next | for | in | during | over | used after a verb to indicate that an action has happened | to do something | an interjection | a surname | used after a number when listing out points | used after a sentence to add emphasis | # adapted from cc-cedict/
 來檬 {lòi mung} /Key lime/
 來者 {lòi chẻ} /whoever; one making an entry/
 來說是非者，便是是非人 {lòi suyết sị phy chẻ ，bịn sị sị phy dần} /The man who comes to argue about the rights and wrongs is usually the wrong-doer himself/
@@ -2331,7 +2325,6 @@
 再嚟過 {chói lầy quó} /please come or try again/
 再生資源 {chói săng chi duyền} /renewable resources/
 再試 {chói sí} /Try again/
-再説 {chói suyết} /Will talk about it again/
 再講 {chói cỏng} /say again, talk again; furthermore/
 再議 {chói dĩ} /Will discuss about it again/
 冒尖 {mộ chiêm} /Outstanding/
@@ -3355,7 +3348,6 @@
 召開 {chiệu hoi} /to host/
 召集 {chiệu chạp} /to call together/
 叮叮糖 {đinh đinh thỏng} /Deuk Deuk Tong, name of a traditional candy/
-可不是嗎 {hỏ bât sị ma} /no? don't you think so?/
 可以 {hỏ dĩ} /(adjective) so so/
 可以避免 {hỏ dĩ bỵ miễn} /avoidable/
 可可樹 {hỏ hỏ sự} /Cocoa trees/
@@ -3809,7 +3801,6 @@
 哨牙 {sáo ngà} /protruding teeth/
 哩哩啦啦 {li li la la} /careless and not paying attention in one's work (Cantonese)/
 哩啦 {li la} /come/
-哪樣 {nã dượng} /which one/
 哺竇 {bộ đấu} /spending much time in a place/
 哺蛋 {bộ đản} /to hatch an egg/
 哽耳 {ẳng dĩ} /unpleasantness to the ears, which means words spoken to the listener are something that he or she does not enjoy to hear/
@@ -5688,8 +5679,6 @@
 奸貓 {kan mao} /someone who is tricky, cunning/
 奸賴 {kan lại} /(adjective) cunning, sneaky; dishonest; mendacious; (verb) to play tricks; to cheat/
 奸鬼 {kan qủy} /tricky, cunning/
-她們的 {tha mùn đich} /pronoun; their (women)/
-她的 {tha đich} /pronoun; her/
 好主意 {hổ chử dí} /noun; good ideas/
 好事不出門，壞事傳千里 {hổ sị bât xuât mùn vại sị xuyền xiên lỹ} /Good news do not travel well, but bad news travel really fast and far/
 好人事 {hổ dần sỉ} /(noun) a good person; a nice person; (adjective) helpful; kind/
@@ -5726,7 +5715,6 @@
 好天 {hổ thiên} /(noun) sunny day; nice day; (adverb) on a sunny | nice day; when it is sunny | nice/
 好天搵埋落雨米 {hổ thiên vẩn mài lọc dữ mễ} /to be well-prepared for the uncertain future/
 好好地 {hổ hổ đỷ} /adv; nicely/
-好好的 {hổ hổ đich} /Very good/
 好好睇睇 {hổ hổ thẩy thẩy} /decently done/
 好孩子 {hổ hài chỉ} /noun; good or well behaved children/
 好少何 {hổ siểu hỏ} /seldomly occur; rarely has such a situation occurred/
@@ -6108,8 +6096,6 @@
 孻尾 {lai mỹ} /the last; finally/
 孻屘 {lai my} /came last (spoken)/
 孿生兄弟 {luyền sanh hinh đệ} /Twin brothers/
-它們的 {tha mùn đich} /noun; they (for inanimate objects)/
-它的 {tha đich} /its/
 宅第 {chạch đệ} /mansion/
 宇宙空間 {dữ chậu hung kan} /universe space/
 守得雲開見月明 {sẩu đăc vần hoi kiến duyệt mình} /people who can be strong and tough enough to withstand disasters will see hope and victory/
@@ -6307,7 +6293,7 @@
 寫明 {sẻ mình} /verb; state, specify/
 寫書 {sẻ sư} /Writing books/
 寫真 {sẻ chân} /(adjective) nude photography, which is erotic or artistic/
-寫給 {sẻ khâp} /to write to/
+
 寰球 {vàn khầu} /worldwide; global/
 寵幸 {xủng hặng} /men in power showing special favor, usually sexual, to a lady/
 寵物小精靈 {xủng mật siểu chinh lình} /Pokemon/
@@ -6481,7 +6467,7 @@
 尛 {liêu} /what; mistress/
 就位 {chậu vỷ} /adj; to get into position or formation; to fall in place/
 就住 {chậu chự} /to adapt | adjust; to take great care of/
-就來 {chậu lề} /coming soon; nearly; almost; close to/
+就嚟 {chậu lầy} /coming soon; nearly; almost; close to/
 就係 {chậu hệ} /it is; exactly/
 就假 {chậu kả} /is fake; 'when pigs fly', an adynation to express that something is impossible | unlikely/
 就勢 {chậu sế} /make use of momentum | situation/
@@ -7534,7 +7520,6 @@
 悟道 {ṇg độ} /Enlightenment/
 悠悠蕩蕩 {dầu dầu đọng đọng} /swaying; to hang around/
 悢 {lượng /lõng} | to be upset/
-您們 {nẽi mùn} /all of you/
 悱惻 {phỷ xăc} /to be laden with sorrow/
 悲從中來 {by xùng chung lòi} /the feeling of sorrow rushing from the heart/
 悲憤填膺 {by phẫn thiền dinh} /full of grief and anger/
@@ -7794,7 +7779,6 @@
 我地 {ngõ tỵ} /we, us/
 我愛你 {ngõ ói nỹ} /I love you/
 我爱你 {ngõ ói nỹ} /I love you/
-我的 {ngõ đich} /pronoun; my, mine/
 我自己 {ngõ chị kỷ} /I myself/
 戒口 {kái hẩu} /abstain from certain food while sick/
 戒奶 {kái nãi} /stop feeding on milk (babies growing up into a child)/
@@ -8736,7 +8720,7 @@
 揸拿 {cha nà} /(slang) surety; assurance; firmly in one's grasp/
 揸 {cha} /(verb) 1. to hold (something); 2. drive (car); 3. pilot (plane); 4. make (decision)/
 揸數 {cha số} /person in charge or handling funds or accounts/
-揸正來做 {cha chếnh lề chộ} /doing something the exact way as it should be (impartially | fairly), i.e. 'by the book'/
+揸正嚟做 {cha chếnh lầy chộ} /doing something the exact way as it should be (impartially | fairly), i.e. 'by the book'/
 揸正嚟做 {cha chếnh lời chộ} /being strict in complying with the rules | laws | regulations and not willing to bend the rules/
 揸水 {cha sủi} /to pee, to urinate/
 揸水煲 {cha sủi bô} /to hold water kettle, to work as waiter | waitress | server/
@@ -9982,7 +9966,6 @@
 有毛有翼 {dẫu mồ dẫu dịch} /(metaphor) all grown up and independent; to have their own skills; to be able to stand on one's own feet; to not be reliant on others anymore and to have their own ideas about things 1./
 有氣冇力 {dẫu hý mỗ lịch} /feeling weak and tired, with no energy/
 有氣冇埞唞 {dẫu hý mỗ đệnh thẩu} /to be so busy that there is no time to take a rest/
-有沒有 {dẫu mụt dẫu} /(verb) do you have/
 有波有籮 {dẫu bo dẫu lo} /(adjective) a sexy or hot body/
 有爺生冇乸教 {dẫu dè sanh mỗ nả káo} /(curse language) to revile or insult someone without a mother/
 有理冇理 {dẫu lỹ mỗ lỹ} /regardless of whether it is rational or reasonable; regardless of the consquences; no matter what/
@@ -11107,11 +11090,7 @@
 沉 {xầm} /addiction/
 沉重負擔 {xầm chụng phụ đam} /a heavy burden; to be a burden/
 沏茶 {xế xà} /(verb) to make some tea/
-沒多久 {mụt đo cẩu} /not too long; soon/
-沒有什麼 {mụt dẫu sậm mo} /there is nothing...about it/
-沒有必要 {mụt dẫu bit diếu} /there is no need; it is not necessary/
 沒水 {mỵ sủi} /to dive/
-沒法子 {mụt phát chỉ} /cannot do anything about it; cannot be helped/
 沓正 {đạp chếnh} /(adverb) right on something/
 沓 {đạp} /indicating the long hand in a clock or watch points at any number (every five minutes) (Cantonese)/
 沖廁 {xung xí} /to flush the toilet; toilet flush/
@@ -11983,7 +11962,6 @@
 為數 {vỳ số} /(verb) to sum up; to count/
 為止 {vỳ chỉ} /up to now/
 為民請命 {vỵ mần xỉnh mịnh} /to plead on behalf of the people/
-為甚麼 {vỳ sậm mo} /why/
 為皮 {vỳ pỳ} /the cost; expensive; to invest capital/
 為虎添翼 {vỵ phủ thiêm dịch} /to support a villain doing something bad/
 為食 {vỳ chị} /(adjective) gluttonous/
@@ -12527,7 +12505,6 @@
 牛骨 {ngầu quât} /bovine bones/
 牛高馬大 {ngầu cô mã đại} /(adjective) tall and hefty; fully grown/
 牛鬼蛇神 {ngầu qủy sè sần} /villians; freaks; rabbles; political heretics, especially refering to anti-Maoists during the Cultual Revolution/
-牠們 {tha mùn} /(pronoun of animal) they; them/
 牢不可破 {lồ bât hỏ pó} /(proverb) something is very strong and unbreakable indissoluble; Or someone's belief is adamant./
 牧放 {mục phóng} /to herd/
 牧童笛 {mục thùng đểc} /(musical instrument) a Recorder/
@@ -12683,7 +12660,6 @@
 獻技 {hiến kỵ} /(verb) to show or display recitals/
 獻拙 {hiến chuyết} /to show oneself up; to show one's inadequacy | incompetency (being modest)/
 獻禮 {hiến lễ} /gifts giving out based on celebrations/
-獻給 {hiến khâp} /(verb) to contribute; to dedicate; to bestow/
 獻藝 {hiến ngệ} /to demonstrate one's talent/
 獻言 {hiến diền} /a proposal/
 獻辭 {hiến xì} /a dedication speech | message/
@@ -13477,7 +13453,7 @@
 監生 {kam săng} /alive/
 監 {kam} /(verb) 1. To force; 2. To compel; (verb) to take into custody; (noun) The supervisor (of school)/
 監硬 {kam ngạnh} /forcefully; without consent (spoken)/
-監粗來 {kám xô lỳ} /to achieve something by force; to force one's way to something/
+監粗嚟 {kám xô lỳ} /to achieve something by force; to force one's way to something/
 監粗嚟 {kam xô lẩy} /act with rash and force (spoken)/
 監護病房 {kam vụ bệnh phỏng} /Intensive Care Unit/
 監頭 {kam thầu} /head of prison officer (spoken)/
@@ -13675,7 +13651,7 @@
 睇住佢頭 {thẩy chự khũi thẩu} /Follow someone; to learn and copy from someone/
 睇住嚟 {thẩy chự lời} /(verb) watch out; to pay attention/
 睇住 {thẩy chự} /looking; staring; watching/
-睇來 {thẩy lề} /seem/
+睇嚟 {thẩy lầy} /seem/
 睇到 {thẩy đố} /(verb) see; look; have seen/
 睇勻 {thẩy vần} /after checking all over/
 睇化 {thẩy phá} /(adj.) nonchalant; phlegmatic; jaded | (v.) to remain calm even when something good or bad happens to you; to take nothing to heart to remain unbothered or unaffected by whatever that happens; to have a zen attitude about something; to see through the vanity of something; to be at peace with oneself no matter what is going on; to be disillusioned with something/
@@ -16980,7 +16956,6 @@
 說白 {suyết bạch} /lines | speech, spoken parts in an opera; to put it bluntly | plainly/
 說穿 {suyết xuyên} /To put it bluntly; to reveal; to disclose/
 說開 {suyết hoi} /speaking of; when it comes to; talking about/
-説不定 {suyết bât định} /Maybe; possibly; probably/
 説明 {suyết mình} /Explanation; show; to clarify; to proof; caption/
 説服 {suyết phục} /To convince; to persuade/
 説法 {suyết phát} /Statement; argument; formulation; version; wording; a way of saying something/
@@ -17638,7 +17613,7 @@
 超 {xiêu} /very | to stare (Cantonese) | glasses; spectacles (Cantonese)/
 超額完成 {xiêu ngạch duyền sình} /over-fulfill; to exceed the target; to outperform/
 超高頻 {xiêu cô pần} /ultrahigh frequency/
-越來越多 {việt lề việt đo} /more and more; increasingly; a growing number/
+越嚟越多 {việt lầy việt đo} /more and more; increasingly; a growing number/
 越南人 {việt nàm dần} /Vietnamese (people)/
 越南共和國 {việt nàm cụng vò quóc} /Republic Of Vietnam/
 越南國家航空 {việt nàm quóc ka hòng hung} /Vietnam Airlines/
@@ -18034,7 +18009,7 @@
 近水樓台 {cận sủi lầu thòi} /terrace and pavilion near the water -- convenient access; to be in a favourable position to be able to gain special advantages/
 近體詩 {cận thể si} /"modern style poetry"; regulated verse innovated in classical poetry during the Tang dynasty, with constrained tonal patterns and rhyme schemes/
 迒 {hòng} /tracks (animal); a path; a road/
-返來 {phan lề} /to come back; to return/
+返嚟 {phan lầy} /to come back; to return/
 返去舊時嗰度 {phan húi cậu sì cỏ độ} /to go back to the old place; to go back to the old times/
 返去 {phản húi} /going back (spoken)/
 返嚟 {phản lẩy} /come back here (spoken)/
@@ -18114,8 +18089,6 @@
 途徑 {thồ kính} /method/
 途程 {thồ xình} /journey/
 這刻 {chẽ hach} /at this point in time; at this moment/
-這是 {chẽ sị} /this is/
-這次 {chẽ xí} /this time/
 通令 {thung lịnh} /to issue a general order/
 通俗讀物 {thung chục đục mật} /popular literature/
 通信兵 {thung suấn binh} /a signal corps/
@@ -18332,7 +18305,6 @@
 還可以 {vàn hỏ dĩ} /it's alright;still can; it's just about okay; it's good enough; it's borderline acceptable; that will do/
 還可以 {vàn hỏ dĩ} /still okay; so-so (spoken)/
 還得神落 {vàn đăc sần lọc} /Thank god, as said when one has avoided trouble or calamity of some kind/
-還沒 {vàn mụt} /not yet/
 還神 {vàn sần} /returning of favour to gods or spirits (spoken)/
 還 {vàn} /(verb) 1. pay back (money); 2. return (something)/
 邊一個 {biên dât có} /who; which one/
@@ -19237,7 +19209,7 @@
 階磚仔 {kai chuyên chẩy} /diamonds (the suit in a pack of playing cards)/
 階磚 {kai chuyên} /paving tile; diamond (the suit in a pack of playing cards)/
 階級 {kai khâp} /caste/
-隔來 {kách lỳ} /beside;next to; next door (neighbour)/
+隔嚟 {kách lỳ} /beside;next to; next door (neighbour)/
 隔夜仇 {kách dẹ sầu} /schisms/
 隔夜油炸鬼 {kách dẹ dầu chá qủy} /a boring person (slang)/
 隔夜茶 {kách dẹ xà} /tea left out overnight/
@@ -21311,7 +21283,6 @@
 復活 {phục vụt} /(noun) 1. Easter- (e.g. Easter-eggs); (verb) Bring someone back to life after dead/
 外孫 {ngọi suyên} /(noun) Grandchildren/
 外甥女 {ngọi săng nủi} /(noun) Niece/
-多麼 {đo mo} /(noun) So (used to emphases the degree of someone say)/
 大眾 {đại chúng} /(noun) 1. Folks; (adjective) Public/
 大地 {đại đỵ} /(noun) The World/
 大班 {đại ban} /(noun) 1. Rich or powerful person; 2. Big group (of people)/
@@ -21994,7 +21965,6 @@
 運轉 {vận chuyển} /(verb) Change luck/
 運行 {vận hằng} /(noun) (of electronic gadget) Working/
 運用 {vận dụng} /(verb) 1. Utilize; 2. Exert/
-這些 {chẻ se} /Some of these…/
 辛勞 {sân lồ} /(adjective) Hard-working/
 轉動 {chuyển đụng} /(verb) 1. To roll round; 2. To spin/
 足以 {chuc dĩ} /(adverb) 1. Enough to | for; 2. Good enough to something/
@@ -22256,7 +22226,6 @@
 藥品 {dược bẩn} /(noun) Medical drug/
 留意 {lầu dí} /(verb) 1. To mind; 2. Be caution/
 用品 {dụng bẩn} /(noun) Amenity/
-沒關係 {mụt quan hệ} /(noun) No relationship (with someone | others)/
 敬酒 {kính chẩu} /(verb) Toast/
 回家 {vồi ka} /(verb) Go home/
 青衣 {xinh di} /(noun) Tsing Yi, which is a place in Tsuen Wan, Hong Kong; (noun) 1. Tsing Yi, which is a MTR station of Ting Chung Line and Airport Express; (fish) | Choerodon schoenleinii/
@@ -22428,7 +22397,6 @@
 不小心 {bât siểu sâm} /accidentally; careless/
 不懂 {bât đủng} /to not know; to not understand; to be ignorant of/
 不明白 {bât mình bạch} /to not understand/
-不是的 {bât sị đich} /no, that is not so/
 不正 {bât chính} /incorrect; iniquity; dishonesty; illegality; impropriety/
 不知幾... {bât chi kẻi…} /extremely | so | really | very…(decribes the extent of something to the point beyond which one can imagine)/
 不醉無歸 {bât chúi mồ quy} /to not return without getting drunk/
@@ -22500,7 +22468,6 @@
 人肉打樁機 {dần dục đả chong ky} /literally: a human pile driver, can also be used in a derogatory way to describe someone who is fat; a sex machine, to describe a man who has a powerful sex drive/
 人面廣 {dần miện quỏng} /to have a well connected or influential contact network/
 人面廣闊 {dần miện quỏng phút} /to have a well connected or influential contact network/
-什麼時間 {sậm mo sì kán} /what time?/
 仆你個臭街 {puc nỹ có xấu kai} /go to hell; fuck off/
 仆倒 {puc đổ} /to fall down; to drop dead; to get into difficulties/
 仆到 {puc đố} /to dash to (said in a vulgar manner)/
@@ -22516,9 +22483,6 @@
 今早 {câm chổ} /this morning/
 今晚肥仔 {câm mãn phỳ chẩy} /let's hit the town tonight/
 今期 {câm khỳ} /current issue; current term; current period/
-他們自己 {tha mùn chị kỷ} /themselves/
-他們都 {tha mùn đô} /they also/
-他自己 {tha chị kỷ} /himself/
 仙都唔仙 {siên đô m̀ siên} /penniless; to not have a single son/
 代理權 {đọi lỹ khuyền} /right of agency; power of attorney; dealership/
 代表者 {đọi biểu chẻ} /representative/
@@ -22544,7 +22508,6 @@
 作感冒 {chóc cẩm mộ} /to have a cold/
 作置 {chóc chí} /scheming to seize something | somebody; to deal with; to handle/
 你係唔係出嚟行 {nỹ hệ m̀ hệ xuât lầy hành} /“and you call yourself a ganster” | “what type of gangster are you?” | “don't you know the rules?” (used in a mocking tone)/
-你們自己 {nỹ mùn chị kỷ} /yourselves/
 你同我定 {nỹ thùng ngõ định} /don't you worry/
 你呢 {nỹ ny} /how about you?; what about you?; you?; and you?; this…of yours/
 你咁寸做乜嘢啫 {nỹ cấm xuyến chộ mât dẽ che} /why are you being so arrogant | cocky | vain | insolent | provocative?/
@@ -22939,7 +22902,7 @@
 唔使多謝 {m̀ sẩy đo chẹ} /you're welcome; don't mention it/
 唔使找 {m̀ sẩy chảo} /please keep the change/
 唔使錢 {m̀ sẩy xiển} /free of charge/
-唔係！不過咁既環境，妳係跟埋來，好難保証妳冇事啫！ {m̀ hại！ bât quó cẩm ký vàn kỉng, nỹ hệ cân mài lèi, hổ nàn bổ chính nỹ mỗ sị che！} /No, it's just that under these circumstances, it's hard to guarantee your safety if you insist on tagging along/
+唔係！不過咁既環境，妳係跟埋來，好難保証妳冇事啫！ {m̀ hại！ bât quó cẩm ký vàn kỉng, nỹ hệ cân mài lời, hổ nàn bổ chính nỹ mỗ sị che！} /No, it's just that under these circumstances, it's hard to guarantee your safety if you insist on tagging along/
 唔係...手腳 {m̀ hại… sẩu cước} /no match for…/
 唔係人咁品 {m̀ hệ dần cẩm bẩn} /imhuman/
 唔係你財唔入你袋 {m̀ hệ nỹ xòi m̀ dập nỹ đỏi} /what's not yours will never be yours (usually used to comfort those who did not get the money that they were expecting)/
@@ -23088,7 +23051,6 @@
 四萬咁口 {sý mạn cẩm hẩu} /to wear a big smile/
 四肢健全 {sý chi kiện xuyền} /able-bodied/
 四草 {sý xổ} /40 bucks | dollars/
-四邊兒 {sý biên dì} /on all four sides; all around/
 四隻腳 {sý chếc cước} /four legs; four legged/
 回力刀 {vồi lịch đô} /a boomerang/
 回塘 {vồi thòng} /to go back to making a honest living/
@@ -23098,7 +23060,6 @@
 國際標準 {quóc chế biêu chuẩn} /international standards/
 圓圓地 {duyền duyền đỷ} /very round/
 圖書店 {thồ sư điếm} /a book store/
-在哪 {chọi nã} /where/
 在讀書 {chọi đục sư} /reading (a book); studying (for an exam); studying (at school | college | university)/
 地下錢莊 {đỵ hạ xiền chong} /an underground bank; an illegal private bank; a covert money dealer/
 地區代號 {đỵ khui đọi hộ} /area code/
@@ -23117,7 +23078,7 @@
 垃雜嘢 {lạp chạp dẽ} /crap stuff; rubbish stuff; junk snacks/
 型爆鏡 {dình báo kếnh} /very stylish; very cool/
 城市長 {sình sĩ chưởng} /mayor/
-埋來 {mài lề} /come here; come closer/
+埋嚟 {mài lầy} /come here; come closer/
 埋街飲井水 {mài kai dẩm chểnh sủi} /(prostitutes) to get married; or women living on boats to get married to someone and live on dry land; to get married to someone of a higher social class and live comfortably/
 執一劑 {châp dât chê} /to take a dose; to have sex with someone/
 執口水尾 {châp hẩu sủi my} /to imitate the words (or actions) of others rather than coming up with one's own ideas/
@@ -23262,8 +23223,6 @@
 奶閪 {lải hê} /to lick cunt; to get into difficulties/
 奶閪仔 {lải hê chẩy} /little bastard/
 奶鞋底 {nãi hài để} /to suck up to the wrong person; an attempt to suck up to someone which failed miserably/
-她們自己 {tha mùn chị kỷ} /themselves (female)/
-她自己 {tha chị kỷ} /herself/
 好Ｙｅａｈ {hổ yeah(de)} /very funky; hip; outlandish; cool/
 好似狗竇 {hổ xĩ cẩu đấu} /(messy) like a dog house | pig's sty/
 好似豬咁蠢 {hổ xĩ chư cấm xuẩn} /to be as dumb as a pig/
@@ -23295,7 +23254,6 @@
 好醜命生成 {hổ xẩu mệnh sanh sềnh} /one's destiny is fated and pre-destined; one's character is predetermined/
 好鬼衰 {hổ qủy sui} /so nasty/
 妙嘴妙舌 {miểu chủi miểu siệt} /to curl the lip (in disdain or to show discontent | disapproval)/
-妳們自己 {nỹ mùn chị kỷ} /yourselves (female)/
 妳哋自己 {nỵ tỵ chị kỷ} /yourselves (female)/
 性交 {sính kao} /sex/
 姣到出汁 {hào đố xuât châp} /to be very promiscuous; extremely flirtatious/
@@ -23321,7 +23279,6 @@
 孭鐵 {me thiết} /to be a police officer/
 學到 {học đổ} /learnt/
 孻仔拉心肝孻女拉五臟 {lai chẩy lai sâm con lai nũi lai ñg chọng} /the youngest child always receives the most attention and affection from his | her parents/
-它們自己 {tha mùn chị kỷ} /themselves (inanimate objects)/
 定要 {định diếu} /or (used in a question when asking someone what they want out of the choices available)/
 家基冷 {ka ky lãnh} /one's own people/
 密瓜 {mật qua} /muskmelon/
@@ -23486,7 +23443,6 @@
 忿巢 {phẫn xào} /unhappy; moody; depressed/
 怎樣做 {chẩm dượng chộ} /how to do something; how to handle something/
 怎辦 {chẩm bạn} /what to do; how to deal with something/
-怎麼做 {chẩm mo chộ} /how to do something; what to do; how to deal with something/
 怕你有毛 {pá nỹ dẫu mồ} /“oh, I am really scared” | “I am really afraid of you” (in a sarcastic tone to challenge someone); I am not afraid of you/
 怕你有牙 {pá nỹ dẫu ngà} /“oh, I am really scared” | “I am really afraid of you” (in a sarcastic tone to challenge someone); I am not afraid of you/
 怕唧 {pá chit} /ticklish/
@@ -23543,8 +23499,6 @@
 成竇人 {sềnh đấu dần} /a whole bunch of people/
 成身裙 {sình sân khuần} /a one piece dress/
 我係 {ngõ hệ} /I am/
-我們的 {ngõ mùn đich} /our; ours/
-我們自己 {ngõ mùn chị kỷ} /ourselves/
 我唔ｄｏ {ngõ m̀ đu} /I quit; I resign/
 我老婆 {ngõ lỗ pò} /my wife/
 戒毒中心 {kái đục chung sâm} /a drug rehabilitation centre/
@@ -23563,7 +23517,6 @@
 手板係肉，手背又係肉 {sẩu bản hệ dụk, sẩu bối dậu hệ dục} /difficult on both sides; to be stuck in a very difficult position, facing a hard decision where both choices are just as hard to make; between a rock and a hard place/
 手滕腳震 {sẩu thằng cước chấn} /to be in a panick; shaky hands and legs/
 手袋店 {sẩu đỏi điếm} /a handbag shop/
-手邊兒 {sẩu biên dì} /at hand; on hand; readily available/
 手震 {sẩu chấn} /to have shaky hands/
 扐旗 {phịch khỳ} /to wave a flag/
 扑鑊勁 {boc vọc kịnh} /to beat up violently; to have vigorous sex/
@@ -23775,7 +23728,7 @@
 搭橋舖路 {đáp khiều pô lộ} /to pave the way for/
 搭爹 {đáp đe} /to butt in on a conversation/
 搭的 {đáp đich} /to take a taxi/
-搵來講 {vẩn lề cỏng} /to talk just for the sake of talking; to give a feeble excuse for something/
+搵嚟講 {vẩn lầy cỏng} /to talk just for the sake of talking; to give a feeble excuse for something/
 搵快錢 {vẩn phái xiển} /to make a fast buck/
 搵日 {vẩn dật} /another day; some other day; find another day; on another day/
 搵條命仔較飛 {vẩn thiều mệnh chẩy káo phy} /to put one's life at risk/
@@ -23931,7 +23884,6 @@
 是是但但 {sị sị đạn đạn} /whatever; anything will do; anything goes; whishy-washy; halfheartedly; to muddle through; careless behaviour/
 是狗彈彈 {sị cẩu đản đản} /whatever; anything will do; up to you, I don't care; anything goes/
 是非鬼 {sị phy qủy} /a gossiper/
-是麼 {sị mo} /really; Is that so?/
 晏啲 {án ti} /later; later on/
 晒嘢 {sái dẽ} /to show off/
 晒招 {sái chiêu} /to show off/
@@ -24145,7 +24097,6 @@
 江湖道義 {cong vù độ dị} /the unspoken code of ethics | honour in society/
 污煙障氣 {vu diên chướng hý} /chaotic disorder; pandemonium; miasma/
 汽車酒店 {hý xe chẩu điếm} /a motel/
-沒良心 {mụt lường sâm} /to have no conscience; heartless/
 沖浪 {xung lọng} /to surf; surfing/
 沖涼涼 {xung lường lương} /to bathe; to take a shower/
 沖涼鋪 {xung lường pổ} /a bath house/
@@ -24339,7 +24290,6 @@
 牛油刀 {ngầu dầu đô} /a butter knife/
 牛油多士 {ngầu dầu đo sỉ} /buttered toast/
 牛記笠記 {ngầu ký lâp ký} /casual shabby clothing, such as T – shirt and jeans/
-牠們自己 {tha mùn chị kỷ} /themselves (animals)/
 特別是 {đặc biệt sị} /especially/
 恃熟賣熟 {xĩ sục mại sục} /to take advantage of one's relationship | connection with someone/
 狒狒地 {phât phât đỷ} /stupid; foolish; crazy/
@@ -24578,7 +24528,6 @@
 磨鏡 {mò kếnh} /literally: mirror grinding; lesbian sex/
 社區中心 {sẽ khui chung sâm} /community centre/
 社團大哥 {sẽ thuyền đại co} /a triad boss; one of the important leader (a big brother) in a triad gang/
-祂們自己 {mùn chị kỷ} /themselves (gods or other celestial beings)/
 祝你 {chuc nỹ} /wish you…; wishing you…/
 神台 {sần thỏi} /someone who is has a high status | reputation but who is in fact totally useless and without any powers/
 神推鬼使 {sần thui qủy sỉ} /to be driven to do something by some spiritis (something that one wouldn't have normally done otherwise); the twists and turns of fate/
@@ -24679,7 +24628,6 @@
 終須有日龍穿鳯 {chung sui dẫu dật lùng xuyên phụng} /everyone has a chance of succeeding one day/
 結婚酒 {kiết phân chẩu} /a wedding reception/
 結拜細佬 {kiết bái sế lổ} /one's younger 'sworn' brother (who have sworn an oath of loyalty together)/
-給你 {khâp nỹ} /give you/
 綁死 {bỏng sỷ} /to have one's shares locked up in the stock or currency market and being unable to sell due to low prices resulting in too great a loss if sold/
 綠豆仔 {lục đẩu chẩy} /literally: little green bean; librium, a type of tranquiliser/
 網誌作者 {mõng chí chóc chẻ} /a blogger/
@@ -25202,7 +25150,6 @@
 鑊仔 {vọc chẩy} /literally : a small wok ; sex with an underage girl/
 鑰匙圈 {dược sì huyên} /a keyring; a keychain/
 長倉 {xường xong} /long term shares/
-門口兒 {mùn hẩu dì} /doorway/
 閂火 {san phỏ} /to turn off the stove | oven; to turn off the lights/
 開Ｂａｎｄ {hoi band} /to commence something; to beat up/
 開Ｐ {hoi P} /to hold a party/
@@ -25689,7 +25636,7 @@
 佝 {khui} /stooped | crooked | rickets | # adapted from cc-cedict/
 佞 {nịnh} /to flatter | flattery | smooth-talking | witty | wise | # adapted from cc-cedict/
 佟 {thùng} /a surname | # adapted from cc-cedict/
-你 {nỹ} /you (informal, as opposed to courteous 您nín ) | can be used to refer to an unspecified person | # adapted from cc-cedict/
+你 {nỹ} /you | can be used to refer to an unspecified person | # adapted from cc-cedict/
 佩 {pối} /to respect | admire | to wear (belt etc) | belt ornament | pendant | to be fit for | to match with | # adapted from cc-cedict/
 佬 {lổ} /male (usually old) | man | guy | bloke | dude (Cantonese) | a vulgar person | # adapted from cc-cedict/
 佬 {lỗ} /male (usually old) | man | guy | bloke | dude (Cantonese) | a vulgar person | # adapted from cc-cedict/
