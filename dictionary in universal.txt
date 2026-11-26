@@ -1,8 +1,8 @@
 # Cantonese National Language Script
 # Cantonese Dictionary in National Language Script of Canton accent
 # Author: Vòng Vân Hạu
-# First Published: 2026-06-26
-# Version: 2026-06-28
+# First Published: 2026-11-26
+# Version: 2026-11-26
 # The orthography in this dictionary is based on typical Canton city or Hong Kong accent Cantonese.
 #
 # Copyright (c) 2026 Vòng Vân Hạu
@@ -172,7 +172,7 @@
 一朝 {yât chiêu} /one morning/
 一朝天子一朝臣 {yât xiều thiên chỉ yât xiều sần} /lit. one reign of an emperor, one reign of officials, meaning one's subordinates or followers will tend to lose its power once the superior has fallen from power/
 一朝被蛇咬 {yât chiêu bỵ sè ngão} /A burnt dog dreads the fire;once bitten, twice shy/
-一本通書睇到老 {yât bủn thung sư thẩy đố lỗ} /always do things by the book; inflexible to changes or new ways of doing things/
+一本通書睇到老 {yât bủn thung sư thẩy đố lãu} /always do things by the book; inflexible to changes or new ways of doing things/
 一朵鮮花插在牛糞上 {yât đỏ siên pha xáp chọi ngầu phấn sưỡng} /lit. a fresh flower planted on a cow dung, meaning a relationship where the woman has great qualities, where the man has not, or much inferior (especially use in looks)/
 一枕黃粱 {yât chẩm vòng lường} /Fond dream/
 一枝公 {yât chi cung} /(slang) (a term used for a man only) alone; single/
@@ -249,7 +249,7 @@
 一腳踏兩船 {yât cước đạp lưỡng suyền} /two-timing (slang)/
 一腳踢 {yât cước thếc} /(slang) to describe someone who handles all the tasks for a project or a business/
 一自 {yât țụ̆} /as soon as; one side; do this and that at the same time/
-一舉成名 {yât củi sình mình} /lit. one passed imperial examinations and make fame, meaning one who make fame in an instant/
+一舉成名 {yât cử sình mình} /lit. one passed imperial examinations and make fame, meaning one who make fame in an instant/
 一舊飯 {yât cậu phạn} /lit. one lump of rice, meaning one who is not responsive or stupid/
 一色 {yât sich} /same colour; same tone; identical/
 一草 {yât xổ} /ten dollars/
@@ -399,7 +399,7 @@
 三更窮五更富 {ŧam kanh khùng ñg kanh phú} /lit. poor at 3 o'clock and rich by 5, meaning one who has no financial planning, and spending all of what one's earn quickly/
 三月二十一號 {ŧam duyệt nhị sập yât hộ} /March 21st/
 三朝 {ŧam xiều} /Three dynasties/
-三朝元老 {ŧam xiều nguyền lỗ} /employee who worked under three transitions of management | minister who served three transitions of emperor in China's history/
+三朝元老 {ŧam xiều nguyền lãu} /employee who worked under three transitions of management | minister who served three transitions of emperor in China's history/
 三板 {ŧam bản} /ŧampan; dinghy/
 三板斧 {ŧam bản phủ} /three-trick pony/
 三枝桅 {ŧam chi ngầy} /barque/
@@ -473,7 +473,7 @@
 上海人 {sượng hỏi nhần} /Shanghainese people/
 上海灘 {sượng hỏi than} /The Bund, which is also known as Waitan/
 上海街 {sượng hỏi kai} /Shanghai street, a street in central Kowloon of Hong Kong/
-上海民族黨 {sượng hỏi mần chục đỏng} /Shanghai National Party/
+上海民族黨 {sượng hỏi mần țục đỏng} /Shanghai National Party/
 上湯 {sượng thong} /consomme; a soup made by (usually – meat ) for cooking purpose (acts as a seasoning to the dish, but not for drinking)/
 上漆 {sưỡng xât} /Japanning; painting/
 上畫 {sưỡng vả} /release on screen (movie)/
@@ -611,7 +611,7 @@
 不肥不瘦 {băt phỳ băt sấu} /neither fat nor skinny/
 不肯 {băt hẳng} /Not willing to/
 不能自拔 {băt nằng țụ̆ bật} /unable to control oneself, or extricate oneself from something/
-不舉 {băt củi} /impotence/
+不舉 {băt cử} /impotence/
 不要面 {băt diếu miện} /Shameless/
 不說不知 {băt suyết băt chi} /Not knowing until somebody tell you so/
 不識 {băt sich} /not knowing or recognising/
@@ -1048,7 +1048,7 @@
 亞爺 {á dè} /Grandpa/
 亞狗亞貓 {á cẩu á mao} /anybody; a nobody/
 亞生 {á sanh} /Sir;Mr…./
-亞皆老街 {á kai lỗ kai} /Argyle Street, a street in Kowloon, Hong Kong/
+亞皆老街 {á kai lãu kai} /Argyle Street, a street in Kowloon, Hong Kong/
 亞視 {á sị} /Asia Television Network, a television station in Hong Kong/
 亞福 {á phuc} /Call | name someone lucky,usually to the servant/
 亞細 {á sế} /Call | name someone little/
@@ -1146,8 +1146,8 @@
 人窮志不窮 {nhần khùng chí băt khùng} /one who is poor but with great ambitions/
 人細鬼大 {nhần ŧế qủy đại} /(slang) someone who is young but mature and astute | shrewd | savvy/
 人羣 {nhần khuần} /a group of people; a crowd/
-人老精，鬼老靈 {nhần lỗ cheng ，quải lỗ lèng} /Literally: Elder human is wise, elder ghost is powerful – The grown up | seniors are wiser as they have lots of experienced and have gone through numerous challenges in lives which made them wiser./
-人老精鬼老靈 {nhần lỗ cheng qủy lỗ lèng} /The grown up | seniors might have thought things thoroughly because they have experienced lots in their lives/
+人老精，鬼老靈 {nhần lãu cheng ，quải lãu lèng} /Literally: Elder human is wise, elder ghost is powerful – The grown up | seniors are wiser as they have lots of experienced and have gone through numerous challenges in lives which made them wiser./
+人老精鬼老靈 {nhần lãu cheng qủy lãu lèng} /The grown up | seniors might have thought things thoroughly because they have experienced lots in their lives/
 人聲 {nhần seng} /Human voice/
 人肉炸彈 {nhần dục chá đản} /one strapping a bomb to oneself/
 人蔘 {nhần} /Ginseng/
@@ -1184,7 +1184,7 @@
 今屆 {câm kái} /this current occurrence/
 今日 {câm dật} /(adverb) nowadays; today/
 今時唔同往日 {câm sì m̀ thùng võng dật} /how it is nowadays is not the same as how it used to be; the situation is different/
-今晚打老虎 {câm mãn đả lỗ phủ} /hello; how are you? (old slang)/
+今晚打老虎 {câm mãn đả lãu phủ} /hello; how are you? (old slang)/
 今晚黑 {câm mãn hăc} /tonight (spoken)/
 今朝 {câm chiêu} /(noun) this morning, …/
 今朝早 {câm chiêu chổ} /this morning/
@@ -1201,7 +1201,7 @@
 仔爺 {chẩy dè} /son and father/
 仔細 {chỉ ŧế} /(noun + adjective)1. son is little; (adverb) in detail/
 仔細女嫩 {chẩy ŧế nũi nuyện} /one's child(ren) are still young/
-仔細老婆嫩 {chẩy ŧế lỗ pò nuyện} /one's child(ren) and wife are still young/
+仔細老婆嫩 {chẩy ŧế lãu pò nuyện} /one's child(ren) and wife are still young/
 仕進 {sị chuấn} /become more hard-working and positive in order to achieve something/
 他他條條 {tha tha thiều thiều} /take it slow or relaxing/
 他心 {tha sâm} /other people's mind; other mind/
@@ -1656,7 +1656,7 @@
 候鑊 {hậu vọc} /a cook, a chef; to be in charge for cooking/
 倚傍 {dỉ bọng} /Count on/
 倚憑 {dỉ pằng} /Rely on/
-倚老賣老 {dỉ lỗ mại lỗ} /one who has more experience or seniority look down on juniors with arrogance/
+倚老賣老 {dỉ lãu mại lãu} /one who has more experience or seniority look down on juniors with arrogance/
 借一借 {ché yât ché} /"excuse me" (asking someone to make way); to borrow/
 借 {ché} /to lend | to borrow | by means of | to take (an opportunity) | to make use of | # adapted from cc-cedict/
 借借 {ché ché} /"excuse me" (asking someone to make way)/
@@ -1728,7 +1728,7 @@
 做百囉 {chộ bách lo} /Chinese custom: 100-Day Birthday Celebration for baby/
 做磨心 {chộ mò sâm} /to be the middleman; to be someone suffering because of the contradictory interests of two parties; to be someone who is loathed by both sides/
 做義工 {chộ dị cung} /Be a volunteer/
-做老襯 {chộ lỗ xấn} /a newly-wed man | being conned or cheated/
+做老襯 {chộ lãu xấn} /a newly-wed man | being conned or cheated/
 做莊 {chộ chong} /as the dealer/
 做賊 {chộ xạch} /Thieve; be a thief/
 做運動 {chộ vận đụng} /to exercise (physically)/
@@ -2257,7 +2257,7 @@
 冇根蔸 {mỗ cân} /not proper/
 冇死 {mỗ sỷ} /did not die/
 冇水 {mỗ sủi} /no water; no money/
-冇牙老虎 {mỗ ngà lỗ phủ} /toothless tiger, something | someone that seems to be powerful and scary yet cannot bite | strike, the government practicing a law | policy without enough | effective enforcement/
+冇牙老虎 {mỗ ngà lãu phủ} /toothless tiger, something | someone that seems to be powerful and scary yet cannot bite | strike, the government practicing a law | policy without enough | effective enforcement/
 冇王管 {mỗ vỏng quổn} /to have no one in control; to have no one in charge/
 冇理由 {mỗ lỹ dầu} /"impossible"; "implausible"; "it cannot be"/
 冇瓦遮頭 {mỗ ngã che thầu} /homeless (spoken)/
@@ -3312,10 +3312,10 @@
 古玩鋪 {củ vủn pổ} /antique shops/
 古着 {củ chược} /vintage clothing/
 古縮 {củ suc} /(adjective) old-fashioned; conservative; introverted; reticent/
-古老十八代 {củ lỗ sập bát đọi} /very old; ancient/
-古老 {củ lỗ} /(adjective) Outdated/
-古老當時興 {củ lỗ đóng sì hinh} /when old-fashioned becomes trendy again/
-古老石山 {củ lỗ sẹc san} /an idiom to describe a person, who is very stubborn, very fixed in his or her own way to doing things and hardly listens to anyone else/
+古老十八代 {củ lãu sập bát đọi} /very old; ancient/
+古老 {củ lãu} /(adjective) Outdated/
+古老當時興 {củ lãu đóng sì hinh} /when old-fashioned becomes trendy again/
+古老石山 {củ lãu sẹc san} /an idiom to describe a person, who is very stubborn, very fixed in his or her own way to doing things and hardly listens to anyone else/
 古董 {củ đủng} /one who is old and fragile (slang)/
 古裝片 {củ chong piển} /traditional Chinese costume drama/
 古訓 {củ phấn} /motto; ancient maxim/
@@ -3405,7 +3405,7 @@
 吃口吃舌 {hếc hẩu hếc siệt} /speaking not fluently; a speech disorder; stuttering/
 吃水線 {hếc sủi siến} /draft marks/
 吃煙 {hếc diên} /to smoke/
-吃老本 {hếc lỗ bủn} /live off one's past success/
+吃老本 {hếc lãu bủn} /live off one's past success/
 吃裡扒外 {hếc lũi pà ngọi} /one who betrays or turned against one's benefactor/
 各方面 {cóc phong miện} /Every aspect/
 各施各法 {cóc si cóc phát} /people use their own methods/
@@ -3702,7 +3702,7 @@
 咋咋臨 {chà chà lầm} /Quick/
 和了 {vủ liễu} /a draw/
 和事佬 {vọ sụ̆ lổ} /peacemaker; one who tried to settle other's dispute/
-和事老 {vò sụ̆ lỗ} /a middleman who acts as a mediator or negotiator to try and resolve the issue(s) of others/
+和事老 {vò sụ̆ lãu} /a middleman who acts as a mediator or negotiator to try and resolve the issue(s) of others/
 和事酒 {vò sụ̆ chẩu} /meal | drinks for settling the dispute/
 和勝和 {vò sính vỏ} /Wo Shing Wo, name of the triad/
 和味 {vò mỵ} /(adj.) delicious; describes a good business agreement with a lucrative profit, i.e. a sweet deal./
@@ -3902,7 +3902,7 @@
 唔好意思 {m̀ hảu dí sí} /(slang) to feel apologetic; excuse me; I'm sorry/
 唔好意頭 {m̀ hảu dí thầu} /not good meaning/
 唔好手腳 {m̀ hảu sẩu cước} /has a habit of stealing or theft (slang)/
-唔好老脾 {m̀ hảu lỗ pỳ} /not having a good temper/
+唔好老脾 {m̀ hảu lãu pỳ} /not having a good temper/
 唔好話 {m̀ hảu vạ} /don't say/
 唔妥 {m̀ thõ} /not right, do not agree or like…/
 唔嬲就假 {m̀ nâu țựu kả} /it is not true if not pissed, which means somebody is surely angry/
@@ -4143,7 +4143,7 @@
 喃嘸佬 {nàm m̀ lổ} /monk; people carry out religious rituals during funeral as a job/
 善棍 {siện quấn} /people who become rich because of running charity business/
 善終 {siện chung} /to have a peaceful or good death/
-善舉 {siện củi} /charity deeds/
+善舉 {siện cử} /charity deeds/
 善長仁翁 {siện chưởng nhần dung} /philanthropist/
 喇叭仔 {lá ba chẩy} /small, mini speakers/
 喇沙書院 {lá sa sư duyển} /La Salle College/
@@ -4162,7 +4162,7 @@
 喉轆 {hầu luc} /hose/
 喉鉗 {hầu khiểm} /spanner/
 喊冷 {hám lãnh} /crying due to cold; resell products obtained from auction/
-喊到一句句 {hám đố yât củi cứ} /to cry loudly/
+喊到一句句 {hám đố yât cử cứ} /to cry loudly/
 喊包 {hám bao} /(noun) someone who cries frequently; a crybaby/
 喊口 {hám hẩu} /it describes people who like to cry for everything/
 喊 {hám} /(very) cry/
@@ -4714,7 +4714,7 @@
 坐館 {chọ quổn} /the leader of a triad in Hong Kong/
 坑渠 {hanh khùi} /(n.) drains; ditch; sewers/
 坑渠油 {hanh khùi dầu} /Gutter oil/
-坑渠老鼠 {hanh khùi lỗ sử} /rats | rodents from the gutter/
+坑渠老鼠 {hanh khùi lãu sử} /rats | rodents from the gutter/
 坑腩 {hanh nãm} /boneless short rib/
 坡紙 {bo chỉ} /Singapore dollar/
 坢 {bụn} /muck/
@@ -5330,10 +5330,10 @@
 大纜絞唔埋 {đại lạm kảo m̀ mài} /Literally, a big rope cannot push it together, Metaphor relationship between two people is not close, or did not have any relationship./
 大纜都扯唔埋 {đại lạm đô xẻ m̀ mài} /two things | people are so not relevant; two things | people have absolutely no relationship | correlation with each other whatsoever/
 大美督 {đại mỹ đuc} /Tai Mei Tuk, located in Hong Kong/
-大老倌 {đại lỗ quôn} /famous actor | actress in Cantonese Opera/
-大老 {đại lỗ} /eldest brother; boss, big boss/
-大老山隧道 {đại lỗ san sụi độ} /noun; Tate's Cairn Tunnel, a tunnel that connects Shatin and Diamond Hill in Hong Kong/
-大老爺 {đại lỗ dè} /Great master, the eldest man in a big, rich family/
+大老倌 {đại lãu quôn} /famous actor | actress in Cantonese Opera/
+大老 {đại lãu} /eldest brother; boss, big boss/
+大老山隧道 {đại lãu san sụi độ} /noun; Tate's Cairn Tunnel, a tunnel that connects Shatin and Diamond Hill in Hong Kong/
+大老爺 {đại lãu dè} /Great master, the eldest man in a big, rich family/
 大考 {đại hảo} /Final examination/
 大耍太極 {đại sả thái kịch} /to avoid talking about a certain topic/
 大耳牛 {đại dĩ ngầu} /adj; to describe a person who does not listen to the advice, or forget the beneficial or useful advice from others./
@@ -5348,7 +5348,7 @@
 大膽 {đại đảm} /courageous/
 大致上 {đại chí sưỡng} /to a great extent; imprecise but close to correct; generally/
 大舅 {đại khẫu} /uncle, mother's eldest brother/
-大舉進攻 {đại củi chuấn cung} /to attack massively; to enter massively; to advance on a large scale/
+大舉進攻 {đại cử chuấn cung} /to attack massively; to enter massively; to advance on a large scale/
 大舊衰 {đại cậu sui} /someone who is big and tall, and go around bullying others/
 大船 {đại suyền} /big boats, big ships; cruises; a ferry/
 大艙 {đại xong} /the lowest class cabin in a ship | cruise/
@@ -5541,7 +5541,7 @@
 太空穿梭機 {thái hung xuyên so ky} /a spaceship/
 太空衫 {thái hung sam} /space suit/
 太空褸 {thái hung lâu} /down jacket/
-太老爺 {thái lỗ dè} /how servants address master's father/
+太老爺 {thái lãu dè} /how servants address master's father/
 太長 {thái xường} /Too long/
 太陰曆 {thái dâm lịch} /Lunar calendar/
 太陽劇團 {thái dường khẹc thuòn} /Cirque du Soleil/
@@ -5663,7 +5663,7 @@
 女權運動 {nũi khuyền vận đụng} /Feminist Movements/
 女演員 {nũi diển viền} /noun; actress/
 女為悅己者容 {nũi vỵ duyệt kỷ chẻ dùng} /women dressing up for the guys they like/
-女王老五 {nũi vòng lỗ ñg} /single rich women (usually middle-aged)/
+女王老五 {nũi vòng lãu ñg} /single rich women (usually middle-aged)/
 女生宿舍 {nũi sanh suc sé} /female dormitory/
 女界 {nũi kái} /Female community; female toilets/
 女童院 {nũi thùng duyển} /Children and Juvenile Reform Home for girls/
@@ -5834,7 +5834,7 @@
 妹 {mội} /(noun) used to address a general young girl or lady in a polite way, especially a customer (it is like "madam")/
 妹妹仔 {mồi môi chẩy} /little girl/
 妹釘 {môi đeng} /(noun) (of teasing tone) saucy little girl; bold and lively little miss/
-妻兒老小 {txê dì lỗ ŧiểu} /the whole family/
+妻兒老小 {txê dì lãu ŧiểu} /the whole family/
 妻孥 {txê nồ} /noun; wife and children/
 姌 {diễm} /slender/
 姏 {màn} /old women/
@@ -5915,7 +5915,7 @@
 娥眉月 {ngò mỳ duyệt} /Crescent moon/
 娥眉洲 {ngò mỳ châu} /Crescent Island, an island in Hong Kong/
 娶心抱 {xủi sâm pỗ} /for son to marry his wife/
-娶老婆 {xủi lỗ pò} /verb; to marry one as wife/
+娶老婆 {xủi lãu pò} /verb; to marry one as wife/
 婀娜多姿 {ỏ nõ đo chi} /adj; graceful and charming , beautiful/
 婄腩 {pấu nãm} /fat belly/
 婆乸 {pò nả} /a derogatory way to address women who are no longer young/
@@ -6116,7 +6116,7 @@
 安民 {on mần} /to appease people; to stabilize the lives of people/
 安江省 {on cong sảnh} /An Giang Province, Vietnam/
 安省 {on sảnh} /Ontario, Canada/
-安老院 {on lỗ duyển} /retirement or elderly homes/
+安老院 {on lãu duyển} /retirement or elderly homes/
 宋王台 {súng vòng thòi} /Sung Wong Toi, an historic relic in Kowloon, Hong Kong, which dates back to end of Southern Song Dynasty/
 宋詞 {súng xì} /Song poetry/
 宋體字 {súng thể țụ̆} /Song font/
@@ -6198,7 +6198,7 @@
 家庭計劃 {ka thình kế vạch} /Family Planning/
 家庭電器 {ka thình điện hý} /Home Appliances/
 家書 {ka sư} /a written letter address to one's home or family/
-家有一老，如有一寶 {ka dẫu yât lỗ dừ dẫu yât bổ} /It's good to have an elderly at home, because they are wise with a lot of life experiences/
+家有一老，如有一寶 {ka dẫu yât lãu dừ dẫu yât bổ} /It's good to have an elderly at home, because they are wise with a lot of life experiences/
 家欄雞 {ka lan kê} /Chickens which belong to one's own farm/
 家法 {ka phát} /rules of the house which applies within the family (can also refer to rules within certain community, such as a gang, a group etc.)/
 家爺仔乸 {ka dè chẩy nả} /family members/
@@ -6538,7 +6538,7 @@
 屋苑 {uc dửn} /noun; housing estate/
 屋邨 {uc xuyên} /housing estate/
 屌你 {điểu nỹ} /Cantonese swearing word: fuck you/
-屌你老母 {điểu nỹ lỗ mổ} /a foul Cantonese sentence which is similar to the saying of "motherfucker" in English/
+屌你老母 {điểu nỹ lãu mổ} /a foul Cantonese sentence which is similar to the saying of "motherfucker" in English/
 屌那媽 {điểu nã ma} /Fuck one's mother (foul language)/
 屌閪 {điểu hê} /Cantonese swearing word: it means man fucking a woman's vagina/
 屍身 {si sân} /Corpse/
@@ -6914,7 +6914,7 @@
 年宵市場 {niền siêu sĩ xường} /Lunar New Year Fair; Lunar New Year market/
 年宵 {niền siêu} /noun; Lunar New Year/
 年宵花市 {niền siêu pha sĩ} /noun; Lunar New Year Fair/
-年少老成 {niền siếu lỗ sình} /physically young but mentally mature/
+年少老成 {niền siếu lãu sình} /physically young but mentally mature/
 年晚 {niền mãn} /noun; the end of the year/
 年期 {niền khỳ} /Year period/
 年班 {niền ban} /form, grade, class/
@@ -7484,7 +7484,7 @@
 恃強凌弱 {xĩ khường lình dược} /one who is powerful bullies the weak or poor/
 恃 {xĩ} /to act on/
 恃熟賣熟 {xĩ sục mại sục} /to take advantage of one as they are friends or have a good relationship/
-恃老賣老 {xĩ lỗ mại lỗ} /people, usually the elderly, who bully or look down on others, because they think their old age gives them the right to do so/
+恃老賣老 {xĩ lãu mại lãu} /people, usually the elderly, who bully or look down on others, because they think their old age gives them the right to do so/
 恆安 {hằng on} /Heng On, place in Hong Kong/
 恆河沙 {hằng hò sa} /a term in Buddhism, it means a big amount/
 恆生指數 {hằng săng chỉ số} /The Hang Seng Index/
@@ -8158,8 +8158,8 @@
 扮 {bạn} /(verb) to pretend/
 扮晒蟹 {bạn sái hãi} /verb; literally: one acting as a crab; run amuck like a crab; describe one to act capable when acutally not/
 扮蟹 {bán hãi} /to pretend to be ignorant/
-扮豬吃老虎 {bạn chư hếc lỗ phủ} /people who put on a mask and pretend, but their real self will show during important moments; a wolf in sheep's clothing/
-扮豬食老虎 {bạn chư sịch lỗ phủ} /(phrase) literally means 'Act like a pig, bite the tiger to death'; pretend to be dumb and harmless while waiting for one's chance to attack an enemy./
+扮豬吃老虎 {bạn chư hếc lãu phủ} /people who put on a mask and pretend, but their real self will show during important moments; a wolf in sheep's clothing/
+扮豬食老虎 {bạn chư sịch lãu phủ} /(phrase) literally means 'Act like a pig, bite the tiger to death'; pretend to be dumb and harmless while waiting for one's chance to attack an enemy./
 扮野 {bạn dẽ} /feigning/
 扮靚 {bạn léng} /(verb) to beautify; to apply makeup; to dress up; to adorn; to deck out/
 扮靚靚 {bạn léng léng} /verb; dress up/
@@ -8762,7 +8762,7 @@
 搏殺 {bóc sát} /to bet (gambling or investment)(Cantonese)/
 搏炒 {bóc xảo} /risking one's job (spoken)/
 搏盡 {bóc chuận} /the attitude of putting in 100% effort in everything one does/
-搏老命 {bóc lỗ mịnh} /risking one's life (spoken)/
+搏老命 {bóc lãu mịnh} /risking one's life (spoken)/
 搐搦 {xuc nich} /convulsions/
 搓圓撳扁 {xo viền cậm biển} /literally meaning 'make round and press flat', usually to describe someone who is easy going or can be easily swayed/
 搓圓㩒扁 {xo viền cậm biển} /adj; too agreeable; able to be swayed, easy to follow other, not having their own points of view/
@@ -8842,8 +8842,8 @@
 搵窿捐 {vấn lùng cuyên} /to find a hole for hiding, it means one is very embarrassed/
 搵笨 {vẩn bận} /(v.) to take advantage of someone; to con | cheat someone; (adj.) to take someone for a fool (to describe a failed attempt to con someone)/
 搵米路 {vẩn mễ lộ} /to find the way to earn money or to make a living/
-搵老婆 {vẩn lỗ pò} /to find a wife/
-搵老襯 {vẩn lỗ xấn} /(v.) to take advantage of someone; to fool someone; to take someone for a ride/
+搵老婆 {vẩn lãu pò} /to find a wife/
+搵老襯 {vẩn lãu xấn} /(v.) to take advantage of someone; to fool someone; to take someone for a ride/
 搵腳 {vẩn cước} /to find an extra person for a team | game, normally used when looking for people to play Mahjong/
 搵著數 {vẩn chược số} /looking for bargain or specials (spoken)/
 搵銀 {vẩn ngẩn} /to earn money/
@@ -9119,7 +9119,7 @@
 擺款 {bải phủn} /(v.)(adj.) to put on airs./
 擺烏龍 {bải vu lủng} /(noun) mix-up over | between/
 擺甫士 {bải pô sỉ} /posing (spoken)/
-擺老烏 {bải lỗ vu} /noun; also known as "烏龍波"; to score in own goal (football or any ball sports)/
+擺老烏 {bải lãu vu} /noun; also known as "烏龍波"; to score in own goal (football or any ball sports)/
 擺花街 {bải pha kai} /noun; Lyndhurst Terrace, a street in Hong Kong/
 擺酒 {bải chẩu} /verb; spread a feast; give a feast; to organise a wedding banquet/
 擺闊佬 {bải phút lổ} /to show off one's wealth; be pretentious, dressed to impress, and extravagant/
@@ -9541,7 +9541,7 @@
 新絲蘿蔔皮 {sân si lò bạch pỳ} /it is used to describe someone who is opinionated and self-righteous/
 新編 {sân piên} /revised edition/
 新義安 {sân dị on} /Sun Yee On, one of the leading triad groups in Hong Kong/
-新老爺 {sân lỗ dè} /the father of the groom/
+新老爺 {sân lãu dè} /the father of the groom/
 新聞人物 {sân mần nhần mật} /a newsmaker; a news figure; to describe a person who is featured in many news reports/
 新聞報告 {sân mần bố cố} /the news report/
 新聞多多 {sân mần đo đo} /to have constant news; to have press coverage/
@@ -10608,7 +10608,7 @@
 檔攤 {đóng than} /(noun) a stall; a booth; a personal business den; a drug hideout/
 檢獲 {kiểm vọc} /(verb) seize/
 檢疫站 {kiểm dịch chạm} /a quarantine station/
-檢舉人 {kiểm củi nhần} /a whistleblower/
+檢舉人 {kiểm cử nhần} /a whistleblower/
 檢驗 {kiểm diệm} /to assess; to evaluate/
 檬粉 {mung phẩn} /(noun) rice vermicelli, which is Vietnamese cold noodles/
 檯波 {thỏi bo} /billards; snooker; pool/
@@ -10800,7 +10800,7 @@
 死硬 {sỷ ngạnh} /doom for death or failure (Cantonese)/
 死硬派 {sỷ ngạnh pái} /(noun) nonconformist; diehard; someone is intransigent/
 死絕種 {sỷ chuyệt chủng} /cursing one to extinct (derogatory)/
-死老鬼 {sỷ lỗ qủy} /(verb) scold someone as an old man | senior (noun) damn old man; old bastard/
+死老鬼 {sỷ lãu qủy} /(verb) scold someone as an old man | senior (noun) damn old man; old bastard/
 死肥婆 {sỷ phỳ pò} /(verb) scold or insult a woman fat | chubby | overweight/
 死腦筋 {sỷ nỗ cân} /'ROM brain'/
 死蛇爛蟮 {sỷ sè lạn siễn} /to describe someone who is lazy | lifeless | unambitious; a slacker/
@@ -11121,7 +11121,7 @@
 沙河粉 {sa hò phẩn} /flat rice noddles/
 沙漠之舟 {sa mọc chi châu} /camel in the desert/
 沙灘波 {sa than bo} /a beach ball/
-沙灘老鼠 {sa than lỗ sử} /a beach thief/
+沙灘老鼠 {sa than lãu sử} /a beach thief/
 沙煲兄弟 {sa bô hinh đệ} /(slang) saying two people's friendship as good as brothers/
 沙煲 {sa bô} /(noun) a clay pot/
 沙田區 {sa thiền khui} /Sha Tin District in Hong Kong/
@@ -11910,8 +11910,8 @@
 炒米餅 {xảo mễ bẻng} /(food) stir-fried rice crackers; stir-fried rice cookies/
 炒粉 {xảo phẩn} /(food) stir-fried rice noodles/
 炒粿條 {xảo quỏ thiều} /char kway teow, a noodle dish from Malaysia/
-炒老板魷魚 {xảo lỗ bản dầu dử} /to quit a job/
-炒老細魷魚 {xảo lỗ ŧế dầu dử} /quit from a job (slang)/
+炒老板魷魚 {xảo lãu bản dầu dử} /to quit a job/
+炒老細魷魚 {xảo lãu ŧế dầu dử} /quit from a job (slang)/
 炒菜鏟 {xảo xói xản} /a cooking spatula/
 炒蝦拆蟹 {xảo ha xách hãi} /to swear; foul-mouthed/
 炒貴刁 {xảo qúy điêu} /char kway teow, type of stir-fried rice noodle/
@@ -12172,7 +12172,7 @@
 煲 {bô} /(noun) 1. bowtie (slang) Relationship (of dating couples)/
 煲燶粥 {bô nung chuc} /to overcook and burn rice porridge/
 煲粥 {bô chuc} /cooking congee; to have a long chat on phone/
-煲老藕 {bô lỗ ngẫu} /(slang) a younger man in a relationship with older woman/
+煲老藕 {bô lãu ngẫu} /(slang) a younger man in a relationship with older woman/
 煲腍 {bô nầm} /to boil something until it is soft/
 煲茶 {bô xà} /(verb) make tea/
 煲藥 {bô dược} /to boil Chinese medicine/
@@ -12816,7 +12816,7 @@
 瓜 {qua} /(verb) die/
 瓜直 {qua chịch} /died or passed away; (someone is going to be) doomed for sure; to suffer a big loss of capital/
 瓜籽 {qua chỉ} /melon seeds, a snack/
-瓜老襯 {qua lỗ xấn} /(adjective) dead; passed away; (verb) totally messed up; totaled; fell through; ruined; wrecked; failed/
+瓜老襯 {qua lãu xấn} /(adjective) dead; passed away; (verb) totally messed up; totaled; fell through; ruined; wrecked; failed/
 瓣瓣 {phạn bạn} /everything/
 瓦坑 {ngã hanh} /tiled rooftop (spoken)/
 瓦桁 {ngã hăng} /runoff channel between the clay tiles of a roof/
@@ -13005,7 +13005,7 @@
 男丁 {nàm đinh} /adult male | baby boy/
 男主角 {nàm chử kóc} /main actor/
 男人味 {nàm dẩn mỵ} /(adjective) masculine; manly/
-男人老狗 {nàm nhần lỗ cẩu} /as a 'a proper man'; as a 'a real man' (an expression used when implying that a guy should exhibit the behaviours that is expected of a man, similar to someone saying "act like a man")/
+男人老狗 {nàm nhần lãu cẩu} /as a 'a proper man'; as a 'a real man' (an expression used when implying that a guy should exhibit the behaviours that is expected of a man, similar to someone saying "act like a man")/
 男人頭 {nàm nhần thầu} /(adjective) a female's appearance or behaves like a man/
 男仔 {nàm chẩy} /(n.) a boy or a young man./
 男仔頭 {nàm chẩy thầu} /a tomboy hairstyle; tomboy/
@@ -13118,7 +13118,7 @@
 疏乎 {so phù} /(adjective) enjoy; laid back; relax; comfortable/
 疏堂兄弟 {so thòng hinh đệ} /distant male cousin/
 疏堂 {so thòng} /distant (relative on the father's side)/
-疏堂老表 {so thòng lỗ biểu} /distant relative/
+疏堂老表 {so thòng lãu biểu} /distant relative/
 疏扶 {so phù} /relax; comfortable; soft/
 疏殼 {so hóc} /colander; strainer; oil skimmer/
 疏爽 {so sỏng} /generous (spoken)/
@@ -13257,7 +13257,7 @@
 發窮惡 {phát khùng óc} /unreasonable behaviors thrust upon others by someone who is venting out their stress and frustrations as a result of the lack of money or financial difficulties/
 發糕 {phát cô} /(food) steamed sponge cake/
 發羊吊 {phát dường điếu} /epilepsy/
-發老脾 {phát lỗ pỳ} /throw a tantrum (spoken)/
+發老脾 {phát lãu pỳ} /throw a tantrum (spoken)/
 發腳 {phát cước} /(verb) start off; start running/
 發茅 {phát mào} /panic | act atrociously/
 發表 {phát biểu} /to announce/
@@ -13352,7 +13352,7 @@
 百合匙 {bách hập sì} /Master Key/
 百密一疏 {bách mật yât so} /(idiom) someone is very detailed and meticulous but overlook on one tiny detail/
 百尺竿頭,更進一步 {bách xếc con thầu , cắng chuấn yât bộ} /Go further; to make further progress/
-百年歸老 {bách niền quy lỗ} /(proverb) in old age; (Figurative meaning) after a senior passes away/
+百年歸老 {bách niền quy lãu} /(proverb) in old age; (Figurative meaning) after a senior passes away/
 百忍成金 {bách nhẫn sình câm} /(idiom with figurative meaning) patience is valuable quality of people/
 百搭 {bách đáp} /compatible with anything/
 百萬雄師 {bách mạn hùng si} /A powerful army with many soldiers/
@@ -13637,7 +13637,7 @@
 眼鏡鋪 {ngãn kẻng pổ} /Optical Shop/
 眼闊肚窄 {ngãn phút thỗ chách} /(adjective) to want more than what one can eat | take in; to be overly greedy; to bite off more than one can chew; ; literally "eyes bigger than your stomach"/
 眾怒難犯 {chúng nộ nàn phạn} /(idiom) Do not incur public wrath; Do not incur the anger of the masses/
-眾擎易舉 {chúng khình dị củi} /cooperation makes difficult things easy/
+眾擎易舉 {chúng khình dị cử} /cooperation makes difficult things easy/
 眾望所歸 {chúng mọng sỏ quy} /(proverb) to enjoy popular confidence; someone has public respects and supports/
 眾生相 {chúng săng sướng} /the appearance of all types of people around the world/
 眾目昭彰 {chúng mục xiêu chương} /seen clearly by everyone; watched by the sharp-eyed public/
@@ -13701,7 +13701,7 @@
 睇 {thẩy} /(verb) to catch/
 睇睇 {thẩy thẩy} /let's see (spoken)/
 睇穿 {thẩy xuyên} /to see through (a trick or a facade)/
-睇老婆 {thẩy lỗ pò} /pick a wife (spoken)/
+睇老婆 {thẩy lãu pò} /pick a wife (spoken)/
 睇脈 {thẩy mặc} /visiting Chinese medical practitioner (spoken)/
 睇落 {thẩy lọc} /looks like; seems; to come across as/
 睇衰 {thẩy sui} /(verb) to look down on; to regard someone as worthless; to give up on; to belittle; to doom someone or something as a failure/
@@ -14121,7 +14121,7 @@
 萬綠叢中一點紅 {mạn lục xùng chung yât điểm hùng} /outstanding/
 萬聖節 {mạn sính chiết} /Halloween/
 萬能插蘇 {mạn nằng xáp sô} /universal adaptor/
-萬能老倌 {mạn nằng lỗ quôn} /actor who can act many different kinds of characters; all-rounder; versatile person; generalist/
+萬能老倌 {mạn nằng lãu quôn} /actor who can act many different kinds of characters; all-rounder; versatile person; generalist/
 萬能膠 {mạn nằng kao} /All-purpose adhesive/
 萬象更新 {mạn chượng căng sân} /all is fresh again/
 禾叉髀 {vò xa bỷ} /(noun with figurative meaning) peer cousins/
@@ -14226,7 +14226,7 @@
 空口無憑 {hung hẩu mồ pằng} /mere words without a factual basis; a mere verbal statement is no guarantee; a verbal statement without any proof/
 空口講白話 {hung hẩu cỏng bạch vả} /making empty promises (slang)/
 空寥寥 {hung liêu liêu} /empty/
-空心老倌 {hung sâm lỗ quôn} /incapable person (slang)/
+空心老倌 {hung sâm lãu quôn} /incapable person (slang)/
 空手掉空臂 {hung sẩu điệu hung bý} /nothing to do; nothing to hold/
 空框框 {hung khoanh khoanh} /empty room/
 空殼公司 {hung hóc cung si} /a shell company/
@@ -14270,7 +14270,7 @@
 窘態 {khuấn thái} /Embarrassment/
 窠臼 {vo khẫu} /set pattern (usually referring to writing or artistic creation)/
 窩工 {vo cung} /(verb) to reduce speed on or slow down a construction; to hold up a building project/
-窩打老道 {vo đả lỗ độ} /(road) Waterloo Road in Kowloon, Hong Kong/
+窩打老道 {vo đả lãu độ} /(road) Waterloo Road in Kowloon, Hong Kong/
 窩棚 {vo pành} /shack; shed/
 窩貼 {vo thiếp} /pan-fried dumpling/
 窩輪 {vo luần} /warrant (spoken)/
@@ -15066,7 +15066,7 @@
 群言堂 {khuần diền thòng} /(noun) a place in where everyone allow to talk and discuss their opinions or words democratically/
 義師 {dị si} /an army fighting a just war/
 義正詞嚴 {dị chính xì diềm} /To speak sternly out of a sense of righteousness/
-義舉 {dị củi} /(noun) majestic deed; a beneficial action for the public good/
+義舉 {dị cử} /(noun) majestic deed; a beneficial action for the public good/
 義莊 {dị chong} /(noun) coffin house; mortuary/
 羹匙 {căng xì} /(utensil) spoon/
 羹 {căng} /spoon/
@@ -15102,108 +15102,108 @@
 翻頭婆 {phan thầu pò} /women who re-married (slang)/
 翻頭嫁 {phan thầu ká} /describes the act of a widow or a divorced woman who decides to get married again/
 翻風 {phan phung} /wind is picking up (spoken)/
-老交情 {lỗ kao xình} /Old friend; go way back/
-老人家 {lỗ nhần ka} /(noun) General term to call a senior/
-老人成嫩仔 {lỗ nhần sình nuyện chẩy} /rejuvenation/
-老人星 {lỗ nhần sinh} /Canopus/
-老人精 {lỗ nhần chinh} /describes a child who acts like an adult; a young but worldly person/
-老作 {lỗ chóc} /faking (spoken)/
-老來嬌 {lỗ lòi kiêu} /an elderly (female) who dresses up to cover up actual age (spoken)/
-老倌 {lỗ quôn} /a reputable actor, usually an opera actor/
-老公仔 {lỗ cung chẩy} /hubby (spoken)/
-老公撥扇 {lỗ cung pút siến} /(literally: husband fans); miserable; desolate; pitiful/
-老公 {lỗ cung} /(noun) husband/
-老公餅 {lỗ cung bẻng} /Husband cake, a pastry that is made with fermented bean curd, garlic and black sesame mix paste/
-老友鬼鬼 {lỗ dẩu qủy qủy} /Old Buddies/
-老嘢 {lỗ dẽ} /old man (impolite term)/
-老坑 {lỗ hanh} /old people/
-老夫子 {lỗ phu chỉ} /Old Master Q (a comic book character)/
-老婆仔 {lỗ pò chẩy} /young wife; 'wifey'; way to address a steady girlfriend/
-老婆餅 {lỗ pò bẻng} /Wife cake, a pastry made with a filling of winter melon, almond paste and sesame/
-老宗 {lỗ chung} /a distant relative who shares a common ancestor; someone of the same clan; someone with a same surname/
-老定 {lỗ định} /(adjective) unflappable; calm; self-possessed; confident; composed/
-老少平安 {lỗ siếu pình on} /the old and the young are all safe and sound, the name for a dish of steamed tofu with fish paste/
-老尖 {lỗ chiêm} /Tsim Sha Tsui (spoken)/
-老屈 {lỗ vât} /to wrongly accuse someone; to frame someone/
-老差骨 {lỗ xai quât} /experienced policemen (slang)/
-老幾 {lỗ kỷ} /order of seniority; level; can be used in a rhetorical question to express the insignificance of a person (in a disdainful manner)/
-老廉 {lỗ liềm} /Independent Commission Against Corruption (ICAC)/
-老懵懂 {lỗ mủng đủng} /describes an old person who has a bad memory; a dotard/
+老交情 {lãu kao xình} /Old friend; go way back/
+老人家 {lãu nhần ka} /(noun) General term to call a senior/
+老人成嫩仔 {lãu nhần sình nuyện chẩy} /rejuvenation/
+老人星 {lãu nhần sinh} /Canopus/
+老人精 {lãu nhần chinh} /describes a child who acts like an adult; a young but worldly person/
+老作 {lãu chóc} /faking (spoken)/
+老來嬌 {lãu lòi kiêu} /an elderly (female) who dresses up to cover up actual age (spoken)/
+老倌 {lãu quôn} /a reputable actor, usually an opera actor/
+老公仔 {lãu cung chẩy} /hubby (spoken)/
+老公撥扇 {lãu cung pút siến} /(literally: husband fans); miserable; desolate; pitiful/
+老公 {lãu cung} /(noun) husband/
+老公餅 {lãu cung bẻng} /Husband cake, a pastry that is made with fermented bean curd, garlic and black sesame mix paste/
+老友鬼鬼 {lãu dẩu qủy qủy} /Old Buddies/
+老嘢 {lãu dẽ} /old man (impolite term)/
+老坑 {lãu hanh} /old people/
+老夫子 {lãu phu chỉ} /Old Master Q (a comic book character)/
+老婆仔 {lãu pò chẩy} /young wife; 'wifey'; way to address a steady girlfriend/
+老婆餅 {lãu pò bẻng} /Wife cake, a pastry made with a filling of winter melon, almond paste and sesame/
+老宗 {lãu chung} /a distant relative who shares a common ancestor; someone of the same clan; someone with a same surname/
+老定 {lãu định} /(adjective) unflappable; calm; self-possessed; confident; composed/
+老少平安 {lãu siếu pình on} /the old and the young are all safe and sound, the name for a dish of steamed tofu with fish paste/
+老尖 {lãu chiêm} /Tsim Sha Tsui (spoken)/
+老屈 {lãu vât} /to wrongly accuse someone; to frame someone/
+老差骨 {lãu xai quât} /experienced policemen (slang)/
+老幾 {lãu kỷ} /order of seniority; level; can be used in a rhetorical question to express the insignificance of a person (in a disdainful manner)/
+老廉 {lãu liềm} /Independent Commission Against Corruption (ICAC)/
+老懵懂 {lãu mủng đủng} /describes an old person who has a bad memory; a dotard/
 老撾人民民主共和國 {lào nhần mần mần chử cụng vò quóc} /Lao People's Democratic Republic/
-老旦 {lỗ đản} /a type of actress in Cantonese operas that act in the roles of old female characters/
-老朋 {lỗ pằng} /good or best friend; mates (spoken)/
-老本行 {lỗ bủn hòng} /one's own profession that one is principally been engaged in; one's line of work/
-老柴 {lỗ xài} /a derogratory way to address an old man; old fellow/
-老死 {lỗ sỷ} /best friend (spoken)/
-老母 {lỗ mổ} /(n.) Mother (often used in an offensive manner when swearing at someone)./
-老毛 {lỗ mồ} /Chairman Mao/
-老水 {lỗ sủi} /seasoned; experienced/
-老水鴨 {lỗ sủi ảp} /Duck in soya sauce/
-老波骨 {lỗ bo quât} /experienced football player/
-老泥妹 {lỗ nề môi} /(literally: grubby girl); teenage girl who stays away from home and hangs out on the streets, usually promiscuous and vulgar in their mannerism/
-老泥 {lỗ nề} /the mixture of dirt and dead skin on the surface of the skin; literally 'old mud'/
-老火湯 {lỗ phỏ thong} /slow-cooked soup/
-老火靚湯 {lỗ phỏ léng thong} /A nice slow simmered soup/
-老爆 {lỗ báo} /burglary; to burgle/
-老爺 {lỗ dè} /(noun) honorific term for a wife to call her husband's father/
-老爺車 {lỗ dè xe} /old car/
-老牛聲 {lỗ ngầu seng} /a loud and harsh voice/
-老生常談 {lỗ săng sường thàm} /platitude/
-老番冬 {lỗ phan đung} /Christmas (spoken)/
-老番涼茶 {lỗ phan lường xà} /beer (slang)/
-老番睇榜第一 {lỗ phan thẩy bỏng đệ yât} /come last (slang)/
-老番 {lỗ phan} /(slang) Western people; Caucasians; a Westerner/
-老祖 {lỗ chổ} /ancestor (spoken)/
-老積 {lỗ chich} /(adj.) describes a young person or a child who behaves and thinks in a mature way; a young but worldly person/
-老竇 {lỗ đậu} /(noun) father; dad; daddy/
-老笠 {lỗ lâp} /robbery/
-老細 {lỗ sế} /(n. | appellation) generally refers to the boss or senior colleagues, such as manager or department head; owner of a shop; refers to your client/
-老編 {lỗ piên} /senior editor (spoken)/
-老翻 {lỗ phan} /(n.) refers to illegal | pirated copies of something, such as CDs or handbags; (adj.) to describe something that is counterfeited/
-老翻 {lỗ phan} /pirated goods/
-老 {lỗ} /(adjective) overlooked/
-老老實實 {lỗ lỗ sật sật} /be honest/
-老而不 {lỗ dì băt} /a licentious old man/
-老脾 {lỗ pỳ} /tantrum; emotional outbreak (spoken)/
-老臣子 {lỗ sần chỉ} /long server staff (spoken)/
-老舉 {lỗ củi} /prositute (spoken)/
-老薑 {lỗ cương} /aged ginger/
-老藕 {lỗ ngẫu} /(literally: old lotus root); an unattractive elderly woman/
-老虎乸 {lỗ phủ nả} /(n.) a tigress; a ferocious woman, sometimes used in a humourous sense to refer to one's wife/
-老虎唔發威當病貓 {lỗ phủ m̀ phát vy đóng bẹng mao} /a tiger taken as an ill cat just because it doesn't roar, a metaphor to say don't underestimate one's power/
-老虎蟹 {lỗ phủ hãi} /Ranina Ranina | red frog crab | spanner crab; to describe a bully who acts in a tyrannous manner; used as a modal particle in a sentence to convey a resolute sense of doing something, similar to saying 'no matter what', 'regardless of whatever'/
-老虎頭上釘蝨乸 {lỗ phủ thầu sượng đeng sât nả} /(literally: put lice on the tiger's head); to provoke a powerful person or organization/
-老虔婆 {lỗ khiền pò} /old biddy/
-老處 {lỗ xử} /old virgin (spoken)/
-老行專 {lỗ hòng chuyên} /an expert in a particular field/
-老行尊 {lỗ hằng chuyên} /an expertise of a specialty (spoken)/
-老街站 {lỗ kai chạm} /Laojie Station/
-老表 {lỗ biểu} /(relatives) cousins/
-老衲 {lỗ nạp} /old monk/
-老襟 {lỗ khâm} /the name two or multiple male address each other if they have sexual relationship with the same woman (spoken)/
-老襯 {lỗ xấn} /(slang) to be a groom (going to get married); someone who can easily be tricked by others; a mug; a dupe; a gull; a chump; patsy/
-老西 {lỗ sê} /a suit; a westerner/
-老規矩 {lỗ khuy củi} /old rules; customs (spoken)/
-老親 {lỗ xân} /elderly parents; relatives/
-老豆老母 {lỗ đậu lỗ mổ} /parent/
-老豆 {lỗ đậu} /(slang) father; dad; daddy/
-老貓燒鬚 {lỗ mao siêu sô} /(slang) even a skillful | experienced person or an expert would make mistakes sometimes; even Homer nods/
-老身 {lỗ sân} /old woman referring to oneself/
-老野 {lỗ dẽ} /old man (impolite term)/
-老闆娘 {lỗ bản nường} /a female boss; a female shop owner/
-老闆 {lỗ bản} /(noun) employer/
-老雀 {lỗ chước} /thief; pickpocket (slang)/
-老雜 {lỗ chạp} /a police officer who investigates crimes/
-老頂 {lỗ đỉnh} /boss (spoken)/
-老餅 {lỗ bẻng} /old guy (spoken)/
-老鬼 {lỗ qủy} /an old person (colloquial or derogatory)/
-老鵬 {lỗ pảnh} /old Pang; an old friend/
-老麥 {lỗ mẳc} /McDonald's fast food restaurant/
-老點 {lỗ điểm} /to lie to; to trick/
-老鼠仔 {lỗ sử chẩy} /muscular biceps; literally 'small rat'(same shape)/
-老鼠斑 {lỗ sử ban} /Panther Grouper; humpback grouper; high fin grouper/
-老鼠貨 {lỗ sử phó} /(slang) stolen goods/
-老齧齧 {lỗ ngẹt ngẹt} /Old, feeble and lonely; vegetables that are too old and tough to bite/
+老旦 {lãu đản} /a type of actress in Cantonese operas that act in the roles of old female characters/
+老朋 {lãu pằng} /good or best friend; mates (spoken)/
+老本行 {lãu bủn hòng} /one's own profession that one is principally been engaged in; one's line of work/
+老柴 {lãu xài} /a derogratory way to address an old man; old fellow/
+老死 {lãu sỷ} /best friend (spoken)/
+老母 {lãu mổ} /(n.) Mother (often used in an offensive manner when swearing at someone)./
+老毛 {lãu mồ} /Chairman Mao/
+老水 {lãu sủi} /seasoned; experienced/
+老水鴨 {lãu sủi ảp} /Duck in soya sauce/
+老波骨 {lãu bo quât} /experienced football player/
+老泥妹 {lãu nề môi} /(literally: grubby girl); teenage girl who stays away from home and hangs out on the streets, usually promiscuous and vulgar in their mannerism/
+老泥 {lãu nề} /the mixture of dirt and dead skin on the surface of the skin; literally 'old mud'/
+老火湯 {lãu phỏ thong} /slow-cooked soup/
+老火靚湯 {lãu phỏ léng thong} /A nice slow simmered soup/
+老爆 {lãu báo} /burglary; to burgle/
+老爺 {lãu dè} /(noun) honorific term for a wife to call her husband's father/
+老爺車 {lãu dè xe} /old car/
+老牛聲 {lãu ngầu seng} /a loud and harsh voice/
+老生常談 {lãu săng sường thàm} /platitude/
+老番冬 {lãu phan đung} /Christmas (spoken)/
+老番涼茶 {lãu phan lường xà} /beer (slang)/
+老番睇榜第一 {lãu phan thẩy bỏng đệ yât} /come last (slang)/
+老番 {lãu phan} /(slang) Western people; Caucasians; a Westerner/
+老祖 {lãu chổ} /ancestor (spoken)/
+老積 {lãu chich} /(adj.) describes a young person or a child who behaves and thinks in a mature way; a young but worldly person/
+老竇 {lãu đậu} /(noun) father; dad; daddy/
+老笠 {lãu lâp} /robbery/
+老細 {lãu sế} /(n. | appellation) generally refers to the boss or senior colleagues, such as manager or department head; owner of a shop; refers to your client/
+老編 {lãu piên} /senior editor (spoken)/
+老翻 {lãu phan} /(n.) refers to illegal | pirated copies of something, such as CDs or handbags; (adj.) to describe something that is counterfeited/
+老翻 {lãu phan} /pirated goods/
+老 {lãu} /(adjective) overlooked/
+老老實實 {lãu lãu sật sật} /be honest/
+老而不 {lãu dì băt} /a licentious old man/
+老脾 {lãu pỳ} /tantrum; emotional outbreak (spoken)/
+老臣子 {lãu sần chỉ} /long server staff (spoken)/
+老舉 {lãu cử} /prositute (spoken)/
+老薑 {lãu cương} /aged ginger/
+老藕 {lãu ngẫu} /(literally: old lotus root); an unattractive elderly woman/
+老虎乸 {lãu phủ nả} /(n.) a tigress; a ferocious woman, sometimes used in a humourous sense to refer to one's wife/
+老虎唔發威當病貓 {lãu phủ m̀ phát vy đóng bẹng mao} /a tiger taken as an ill cat just because it doesn't roar, a metaphor to say don't underestimate one's power/
+老虎蟹 {lãu phủ hãi} /Ranina Ranina | red frog crab | spanner crab; to describe a bully who acts in a tyrannous manner; used as a modal particle in a sentence to convey a resolute sense of doing something, similar to saying 'no matter what', 'regardless of whatever'/
+老虎頭上釘蝨乸 {lãu phủ thầu sượng đeng sât nả} /(literally: put lice on the tiger's head); to provoke a powerful person or organization/
+老虔婆 {lãu khiền pò} /old biddy/
+老處 {lãu xử} /old virgin (spoken)/
+老行專 {lãu hòng chuyên} /an expert in a particular field/
+老行尊 {lãu hằng chuyên} /an expertise of a specialty (spoken)/
+老街站 {lãu kai chạm} /Laojie Station/
+老表 {lãu biểu} /(relatives) cousins/
+老衲 {lãu nạp} /old monk/
+老襟 {lãu khâm} /the name two or multiple male address each other if they have sexual relationship with the same woman (spoken)/
+老襯 {lãu xấn} /(slang) to be a groom (going to get married); someone who can easily be tricked by others; a mug; a dupe; a gull; a chump; patsy/
+老西 {lãu sê} /a suit; a westerner/
+老規矩 {lãu khuy cử} /old rules; customs (spoken)/
+老親 {lãu xân} /elderly parents; relatives/
+老豆老母 {lãu đậu lãu mổ} /parent/
+老豆 {lãu đậu} /(slang) father; dad; daddy/
+老貓燒鬚 {lãu mao siêu sô} /(slang) even a skillful | experienced person or an expert would make mistakes sometimes; even Homer nods/
+老身 {lãu sân} /old woman referring to oneself/
+老野 {lãu dẽ} /old man (impolite term)/
+老闆娘 {lãu bản nường} /a female boss; a female shop owner/
+老闆 {lãu bản} /(noun) employer/
+老雀 {lãu chước} /thief; pickpocket (slang)/
+老雜 {lãu chạp} /a police officer who investigates crimes/
+老頂 {lãu đỉnh} /boss (spoken)/
+老餅 {lãu bẻng} /old guy (spoken)/
+老鬼 {lãu qủy} /an old person (colloquial or derogatory)/
+老鵬 {lãu pảnh} /old Pang; an old friend/
+老麥 {lãu mẳc} /McDonald's fast food restaurant/
+老點 {lãu điểm} /to lie to; to trick/
+老鼠仔 {lãu sử chẩy} /muscular biceps; literally 'small rat'(same shape)/
+老鼠斑 {lãu sử ban} /Panther Grouper; humpback grouper; high fin grouper/
+老鼠貨 {lãu sử phó} /(slang) stolen goods/
+老齧齧 {lãu ngẹt ngẹt} /Old, feeble and lonely; vegetables that are too old and tough to bite/
 考妣 {hảo bỷ} /deceased parents/
 考察 {hảo xát} /expedition; delegation/
 考慮不周 {hảo lụi băt châu} /Thoughtless; lack of consideration/
@@ -15585,7 +15585,7 @@
 臨深履薄 {lầm sâm lỹ bọc} /always anxious and fearful; wading in deep water and treading on thin ice; to proceed with extreme caution/
 臨牀 {lầm xòng} /Clinical/
 臨界溫度 {lầm kái vân độ} /Critical temperature/
-臨老學吹打 {lầm lỗ học xui đả} /useless to learn anything at an old age (slang)/
+臨老學吹打 {lầm lãu học xui đả} /useless to learn anything at an old age (slang)/
 臨記 {lầm ký} /(n.) an extra (acting), someone who has a very small part in a film or a show, usually to act as someone in the background/
 臨陣磨槍 {lầm chận mò xương} /last-minute preparation (slang)/
 臨陣脫逃 {lầm chận thuyết thồ} /Cold Feet or Chicken Out last minute or at a critical moment/
@@ -15686,7 +15686,7 @@
 舅公 {khẫu cung} /grandmother's brother/
 舅奶奶 {khẫu nài nải} /husband's maternal uncle's wife/
 舅婆 {khẫu pò} /wife of maternal grandmother's brother/
-舅老爺 {khẫu lỗ dè} /husband's maternal uncle/
+舅老爺 {khẫu lãu dè} /husband's maternal uncle/
 與共 {dữ cụng} /together/
 與別不同 {dữ biệt băt thùng} /With a difference; to stand out from the masses/
 與及 {dữ khập} /and/
@@ -15695,9 +15695,9 @@
 興修 {hinh sâu} /to start construction/
 興 {hinh} /popular; fashionable; trendy/
 興革 {hinh kách} /the initiation of the new and abolition of the old/
-舉中指 {củi chung chỉ} /sticking up the middle finger/
-舉腳贊成 {củi cước chán sình} /total support; complete agreement/
-舉行 {củi hằng} /to host/
+舉中指 {cử chung chỉ} /sticking up the middle finger/
+舉腳贊成 {cử cước chán sình} /total support; complete agreement/
+舉行 {cử hằng} /to host/
 舊城區 {cậu sình khui} /Old Town District/
 舊大埔墟站 {cậu đại bố hui chạm} /Old Tai Po Market Station, a railway station in Hong Kong/
 舊底 {cậu để} /(noun | adverb) long ago; in the past; in the old days/
@@ -16742,7 +16742,7 @@
 親兄弟 {xân hinh đệ} /Blood brothers/
 親切 {xân xiết} /friendly/
 親家奶奶 {xấn ka nài nải} /mother of one's son-in-law or daughter-in-law/
-親家老爺 {xấn ka lỗ dè} /father of children's spouse/
+親家老爺 {xấn ka lãu dè} /father of children's spouse/
 親屬關係 {xân sục quan hệ} /kinship/
 親愛的 {xân ói đich} /dear/
 親戚到 {xân xich đố} /menstrual period commencing (slang)/
@@ -18214,7 +18214,7 @@
 過橋抽板 {quó khiều xâu bản} /describes a situation where a person doesn't reciprocate the help of others and is ungrateful to those who helped him | her/
 過橋 {quó khiều} /to avoid trouble and responsibility (spoken)/
 過檔 {quó đóng} /to switch job; change allegiance/
-過氣老倌 {quó hý lỗ quôn} /once-famous celebrity; one who lost power and authority (slang)/
+過氣老倌 {quó hý lãu quôn} /once-famous celebrity; one who lost power and authority (slang)/
 過氣 {quó hý} /obsolete | out of season/
 過水濕腳 {quó sủi sâp cước} /embezzlement; stealing while handling others' money (slang)/
 過水 {quó sủi} /(verb) give money; to bribe; to transfer money; to run something under cold water (such as rinsing hot noodles with cold water to rid the excess starch); terminology used in a majong game;/
@@ -18228,7 +18228,7 @@
 過籠 {quó lùng} /over the limit; over its intention (spoken)/
 過繼 {quó kế} /to adopt a child of a sibling or a cousin | relative; to let one's child be adopted by a sibling or a cousin | relative/
 過膠 {quó kao} /laminating/
-過街老鼠 {quó kai lỗ sử} /a phrase to describe a malevolent person who is spurned by everyone/
+過街老鼠 {quó kai lãu sử} /a phrase to describe a malevolent person who is spurned by everyone/
 過費 {quó phấy} /undue expense/
 過路 {quó lộ} /to pass by (one's way); to cross a street/
 過身 {quó sân} /(verb) to pass away; departed/
@@ -18284,8 +18284,8 @@
 選擇 {suyển chạch} /to choose/
 選材 {suyển xòi} /to select a suitable material; the material selection/
 選種 {suyển chủng} /seed selection; selective breeding/
-選舉事務處 {suyển củi sụ̆ mộ xứ} /Registration and Electoral Office/
-選舉管理委員會 {suyển củi quổn lỹ vỷ viền vổi} /Electoral Affairs Commission/
+選舉事務處 {suyển cử sụ̆ mộ xứ} /Registration and Electoral Office/
+選舉管理委員會 {suyển cử quổn lỹ vỷ viền vổi} /Electoral Affairs Commission/
 遺下 {vỳ hạ} /to leave behind; to bequeath/
 遺傳基因 {vỳ xuyền ky yân} /DNA; hereditary genes/
 遺傳學家 {vỳ xuyền học ka} /geneticist/
@@ -20153,7 +20153,7 @@
 餐檯 {xan thòi} /a dining-table/
 餐飲業 {xan dẩm diệp} /the catering industry/
 餐 {xan} /(noun) the unit of meals/
-餓死老婆燻臭屋 {ngọ sỷ lỗ pò phân xấu uc} /a man who isn't capable of raising his families/
+餓死老婆燻臭屋 {ngọ sỷ lãu pò phân xấu uc} /a man who isn't capable of raising his families/
 餓狗搶屎 {ngọ cẩu xưởng sỉ} /people scrambling for things (slang)/
 餓狼 {ngọ lòng} /literally: 'a hungry wolf', describes someone who is rapacious | avaricious/
 餓過飢 {ngọ quó ky} /too hungry/
@@ -20169,7 +20169,7 @@
 餲堪堪 {ngát hâm hâm} /stench of stale urine/
 餵人奶 {vý nhần nãi} /to breast-feed;breast nursing;breastfeeding/
 餵奶 {vý nãi} /to feed with milk/
-餵老虎機 {vý lỗ phủ ky} /spend a lot of money on(gambling) slot machine; to insert coins into a parking meter/
+餵老虎機 {vý lãu phủ ky} /spend a lot of money on(gambling) slot machine; to insert coins into a parking meter/
 餵飼 {vý chị} /to feed/
 餸菜 {súng xói} /the accompanying dishes to a meal/
 餸頭餸尾 {súng thầu súng mỹ} /leftovers (food)/
@@ -20659,7 +20659,7 @@
 鱟魚 {hậu dử} /horseshoe crab/
 鱷魚淚 {ngọc dừ lụi} /crocodile tears, superficial | insincere | hypocrite display of sadness or sympathy/
 鱷魚潭 {ngọc dừ thàm} /crocodile lake; place with danger (slang)/
-鱷魚頭老襯底 {ngọc dừ thầu lỗ xấn để} /someone who looks very smart but is actually easily deceived and tricked/
+鱷魚頭老襯底 {ngọc dừ thầu lãu xấn để} /someone who looks very smart but is actually easily deceived and tricked/
 鱷魚頭 {ngọc dừ thầu} /a ruthless person (literally a "crocodile's head")/
 鳥取縣 {niễu xủi duyện} /Tottori Prefecture, a prefecture of Japan/
 鳩嗚 {câu vu} /homophonic transliteration of "gou wu"(shopping) in mandarin/
@@ -21468,7 +21468,7 @@
 案 {ón} /(noun) 1. Plan; 2. Draft/
 桑 {song} /(fruit) Mulberry/
 梁 {lường} /(noun) surname/
-檢舉 {kiểm củi} /(verb) To report and prosecute (a crime)/
+檢舉 {kiểm cử} /(verb) To report and prosecute (a crime)/
 檢察 {kiểm xát} /(noun) Prosecution/
 檢點 {kiểm điểm} /(verb) Behave/
 檢討 {kiểm thổ} /(verb) Evaluate/
@@ -21617,7 +21617,7 @@
 缸 {cong} /(noun) Tank/
 罨 {diểm} /(verb) To apply Chinese herbal medicine onto a spot of a body/
 罩 {cháo} /(verb) 1. Cover; (slang) (figurative and old) Bra/
-老手 {lỗ sẩu} /(noun) Veteran of something/
+老手 {lãu sẩu} /(noun) Veteran of something/
 而已 {dì dĩ} /That's it!/
 耍 {sả} /(verb) (disapproval) To play and fool someone around/
 胺 {on} /(word particle) It is a chemical compound/
@@ -21875,7 +21875,7 @@
 水路 {sủi lộ} /(noun) Sea | ocean transportation/
 預訂 {dự đẹng} /(verb) To make a reservation (in advance)/
 預料 {dự liệu} /(verb) 1. Predict; 2. Expect (something happening in future); 3. Foresee/
-老百姓 {lỗ bách sính} /(noun) The masses/
+老百姓 {lãu bách sính} /(noun) The masses/
 尊貴 {chuyên qúy} /(adjective) Valued (customer)/
 油麥菜 {dầu mặc xói} /(vegetable) Also known as A choi/
 胭脂 {diên chi} /(noun) (of cosmetic) Blush/
@@ -21889,7 +21889,7 @@
 遇到 {dự đố} /(verb) Bump into (someone)/
 晚會 {mãn vổi} /(noun) (of event) Vigil/
 體質 {thể chât} /(noun) (of medicine) Constitution/
-養老 {dưỡng lỗ} /(verb) Provide for getting in old age/
+養老 {dưỡng lãu} /(verb) Provide for getting in old age/
 養殖 {dưỡng chịch} /(noun) Usually it refers to aquaculture or aquafarming/
 顯赫 {hiển hach} /(adjective) Eminent/
 頭緒 {thầu sũi} /(noun) 1. Clue; 2. Idea/
@@ -22147,7 +22147,7 @@
 整容 {chỉnh dùng} /(verb) To undergo plastic surgery/
 名副其實 {mình phú khỳ sật} /(adjective) Veritable/
 危言聳聽 {ngầy diền sủng thinh} /(noun) Scaremongering/
-老伯 {lỗ bách} /(noun) Male senior/
+老伯 {lãu bách} /(noun) Male senior/
 攤牌 {than pải} /(verb) To show; (of mahjong game) to reveal tiles (of a winning hand); (noun) 1. Showdown/
 土氣 {thổ hý} /(noun) Village-style; (adjective) 1. Outmoded/
 做媒 {chộ mồi} /(noun) To be an intermediary (to tie two people or groups to agree with each other)/
@@ -22517,13 +22517,13 @@
 你有你，我有我 {nỹ dẫu nẽi, ngõ dẫu ngõ} /you have your life, I have mine/
 你當我係神主牌 {nỹ đóng ngõ hệ sần chử pải} /what do you take me for, someone who you can call out and then dismiss again at your convenience?/
 你知條撚咩 {nỹ chi thiều lẩn me} /what the fuck do you know?; how the fuck would you know?/
-你老子 {nỹ lỗ chỉ} /your old man; your father/
-你老母 {nỹ lỗ mổ} /your old mother (derogatory); ' fuck your mother', foul language insulting one's mother when cursing someone/
-你老母唔襟屌 {nỹ lỗ mổ m̀ khâm điểu} /your mother can't take a good fucking, an expression used to insult one's mother when cursing someone/
-你老母屎忽 {nỹ lỗ mổ sỉ phât} /'your old mother's asshole', foul language insulting one's mother when cursing someone/
-你老粗 {nỹ lỗ xô} /you lout/
-你老豆 {nỹ lỗ đậu} /your father; your old man/
-你老闆 {nỹ lỗ bản} /your boss ; euphemism for '你老母', 'fuck your mother'. foul language insulting one's mother when cursing someone/
+你老子 {nỹ lãu chỉ} /your old man; your father/
+你老母 {nỹ lãu mổ} /your old mother (derogatory); ' fuck your mother', foul language insulting one's mother when cursing someone/
+你老母唔襟屌 {nỹ lãu mổ m̀ khâm điểu} /your mother can't take a good fucking, an expression used to insult one's mother when cursing someone/
+你老母屎忽 {nỹ lãu mổ sỉ phât} /'your old mother's asshole', foul language insulting one's mother when cursing someone/
+你老粗 {nỹ lãu xô} /you lout/
+你老豆 {nỹ lãu đậu} /your father; your old man/
+你老闆 {nỹ lãu bản} /your boss ; euphemism for '你老母', 'fuck your mother'. foul language insulting one's mother when cursing someone/
 你講乜撚嘢 {nỹ kỏng me lẩn dẽ} /what the fuck are you talking about?/
 你講嘢呀 {nỹ kỏng dẽ á} /'did you say something?' (said in a rhetorical way when you try to mock someone if you disagree with what they have said or think they are talking a load of nonsense)/
 你貴寶號 {nỹ qúy bổ hộ} /your shop/
@@ -22633,7 +22633,7 @@
 兩次 {lưỡng xí} /twice/
 兩粒一班 {lưỡng nâp yât ban} /a senior police inspector/
 兩粒花 {lưỡng nâp pha} /a police inspector/
-兩老 {lưỡng lỗ} /one's parents; one's father and mother/
+兩老 {lưỡng lãu} /one's parents; one's father and mother/
 兩腳一伸 {lưỡng cước yât sân} /to kick the bucket; to be dead/
 兩頭騰 {lưỡng thầu thằng} /to rush around here and there/
 八卦佬 {bát quá lổ} /a nosy guy who likes to gossip/
@@ -22884,7 +22884,7 @@
 咬掉 {ngão điệu} /to bite off; to bite away/
 咬灰 {ngão phôi} /to take heroin/
 咬米 {ngão mễ} /to eat/
-咬老軟 {ngão lỗ duyễn} /to be a ponce; to be a man who lives off a woman/
+咬老軟 {ngão lãu duyễn} /to be a ponce; to be a man who lives off a woman/
 咬草 {ngão xổ} /to smoke weed/
 咬蔗啦去 {ngão ché la hứ} /go piss off!/
 咬貴米 {ngão qúy mễ} /to take expensive heroin/
@@ -22950,8 +22950,8 @@
 唧魚蛋 {chich dừ đản} /to squeeze a woman's breast; to make cotton buds in prison service/
 唯你是問 {vỳ nỹ sị mận} /to hold you solely responsible/
 唱生哂 {xướng sanh sái} /to spread a gossip wide and far/
-問候你老母 {mận hậu nỹ lỗ mổ} /euphemism for 屌你老母, 'fuck your mother', foul language insulting one's mother when cursing someone/
-問候你老豆 {mận hậu nỹ lỗ đậu} /euphemism for 屌你老豆, 'fuck your father', foul language insulting one's father when cursing someone/
+問候你老母 {mận hậu nỹ lãu mổ} /euphemism for 屌你老母, 'fuck your mother', foul language insulting one's mother when cursing someone/
+問候你老豆 {mận hậu nỹ lãu đậu} /euphemism for 屌你老豆, 'fuck your father', foul language insulting one's father when cursing someone/
 問非所答 {mận phy sỏ đáp} /to be uncooperative in answering a question when asked; to give an irrelevant answer/
 啞仔食黃蓮 {ả chẩy sịch vòng liền} /to suffer in silence/
 啞子食黃蓮 {ả chỉ sịch vòng liền} /to suffer in silence/
@@ -23172,7 +23172,7 @@
 大站 {đại chạm} /a major stop along a rail or bus route/
 大粒癦 {đại lâp mẳc} /a person with a big mole; an important official/
 大纜扯唔埋 {đại lạm xẻ m̀ mài} /to have no connection whatsoever/
-大老闆 {đại lỗ bản} /the big boss/
+大老闆 {đại lãu bản} /the big boss/
 大腳友 {đại cước dẫu} /an obsequious person who often sucks up to others/
 大腳解圍 {đại cước kải vỳ} /to resolve an issue; a big kick of the ball to clear it out of the defence area in football/
 大舊佬 {đại cậu lổ} /a big, well built guy/
@@ -23290,7 +23290,7 @@
 寸到飛起 {xuyến đố phy hỷ} /to be extremely arrogant | cocky | vain | provocative | insolent/
 寸得起 {xuyến đăc hỷ} /have got every reason to be arrogant | cocky | vain | provocative | insolent/
 寸過馬撚 {xuyến quó mã lẩn} /to be extremely arrogant | cocky | vain | provocative | insolent/
-封老毛 {phung lỗ mồ} /to give a red packet of lucky money/
+封老毛 {phung lãu mồ} /to give a red packet of lucky money/
 封艇 {phung thẽng} /to have one's taxi impounded/
 射嘢 {sẹ dẽ} /to ejaculate/
 專業知識 {chuyên diệp chi sich} /professional knowledge/
@@ -23315,17 +23315,17 @@
 少等 {siểu đẳng} /to wait a short moment/
 就噉 {țựu cỏm} /just like that; then just/
 屌你娘親 {điểu nỹ nường xân} /'fuck your mother', foul language insulting one's mother when cursing someone/
-屌你老尾冚家剷 {điểu nỹ lỗ mỹ hậm ka xản} /euphemism for 'fuck your mother you bastard', foul language insulting one's mother when cursing someone/
-屌你老母個仆街仔 {điểu nỹ lỗ mổ có puc kai chẩy} /'fuck your mother you bastard', foul language insulting one's mother when cursing someone/
-屌你老母個仆街冚家鏟 {điểu nỹ lỗ mổ có puc kai hậm ka xản} /'fuck your mother you bastard', foul language insulting one's mother when cursing someone/
-屌你老母撚鳩閪柒未撚屌過呀 {điểu nỹ lỗ mổ lẩn câu hê xật mỵ lẩn điểu quó á} /'fuck your mother, not been fucked yet?', foul language insulting one's mother when cursing someone/
-屌你老母爛花閪 {điểu nỹ lỗ mổ lạn pha hê} /'fuck your mother's rotten cunt', foul language insulting one's mother when cursing someone/
-屌你老母臭閪 {điểu nỹ lỗ mổ xấu hê} /'fuck your mother's smelly cunt', foul language insulting one's mother when cursing someone/
+屌你老尾冚家剷 {điểu nỹ lãu mỹ hậm ka xản} /euphemism for 'fuck your mother you bastard', foul language insulting one's mother when cursing someone/
+屌你老母個仆街仔 {điểu nỹ lãu mổ có puc kai chẩy} /'fuck your mother you bastard', foul language insulting one's mother when cursing someone/
+屌你老母個仆街冚家鏟 {điểu nỹ lãu mổ có puc kai hậm ka xản} /'fuck your mother you bastard', foul language insulting one's mother when cursing someone/
+屌你老母撚鳩閪柒未撚屌過呀 {điểu nỹ lãu mổ lẩn câu hê xật mỵ lẩn điểu quó á} /'fuck your mother, not been fucked yet?', foul language insulting one's mother when cursing someone/
+屌你老母爛花閪 {điểu nỹ lãu mổ lạn pha hê} /'fuck your mother's rotten cunt', foul language insulting one's mother when cursing someone/
+屌你老母臭閪 {điểu nỹ lãu mổ xấu hê} /'fuck your mother's smelly cunt', foul language insulting one's mother when cursing someone/
 屌你鹵味 {điểu nỹ lỗ mỷ} /euphemism for 'fuck your mother', foul language insulting one's mother when cursing someone/
 屌到你閪痕 {điểu đố nỹ hê hần} /'fuck you till your cunt scars', foul language when cursing someone/
-屌撚你老母臭閪 {điểu lẩn nỹ lỗ mổ xấu hê} /'fuck your mother's stinky cunt', foul language insulting one's mother when cursing someone/
-屌柒你老母個閪 {điểu xật nỹ lỗ mổ có hê} /'fuck your mother's cunt', foul language insulting one's mother when cursing someone/
-屌柒爆你老尾個閪 {điểu xật báo nỹ lỗ mỹ có hê} /euphemism for 'fuck your mother's cunt, foul language insulting one's mother when cursing someone/
+屌撚你老母臭閪 {điểu lẩn nỹ lãu mổ xấu hê} /'fuck your mother's stinky cunt', foul language insulting one's mother when cursing someone/
+屌柒你老母個閪 {điểu xật nỹ lãu mổ có hê} /'fuck your mother's cunt', foul language insulting one's mother when cursing someone/
+屌柒爆你老尾個閪 {điểu xật báo nỹ lãu mỹ có hê} /euphemism for 'fuck your mother's cunt, foul language insulting one's mother when cursing someone/
 屌開 {điểu hoi} /fuck off/
 屌鳩撚柒你個冚家仱 {điểu câu lẩn xật nỹ có hậm ka linh} /'fuck you you bastard', foul language when cursing someone/
 屎坑公賣草紙 {sỉ hanh cung mại xổ chỉ} /to be honest with oneself; to just trust someone to be honest and do the right thing even if others are not looking/
@@ -23499,7 +23499,7 @@
 成身裙 {sình sân khuần} /a one piece dress/
 我係 {ngõ hệ} /I am/
 我唔ｄｏ {ngõ m̀ đu} /I quit; I resign/
-我老婆 {ngõ lỗ pò} /my wife/
+我老婆 {ngõ lãu pò} /my wife/
 戒毒中心 {kái đục chung sâm} /a drug rehabilitation centre/
 戥人唔抵 {đặng nhần m̀ để} /to feel that someone has been wronged and that they deserve better/
 戥你開心 {đặng nỹ hoi sâm} /to be happy for you; to be pleased for you/
@@ -23524,7 +23524,7 @@
 扒飯 {pà phạn} /to eat rice/
 打ｃａｒｄ {đả khat} /to clock in/
 打一身 {đả yât sân} /to give someone a thorough thrashing/
-打佢老母 {đả khùi lỗ mổ} /euphemism for 𨳒佢老母, fuck his mother/
+打佢老母 {đả khùi lãu mổ} /euphemism for 𨳒佢老母, fuck his mother/
 打個突 {đả có đật} /to surprise/
 打到亞媽都唔認得 {đả đố á ma đô m̀ dịnh đăc} /to be beaten up to a bad state, beyond recognition/
 打到塊嘢咁 {đả đố phái dẽ cỏm} /to be beaten up to a bad state/
@@ -23582,7 +23582,7 @@
 扮曬嘢 {bạn sái dẽ} /to be boastful; to claim to be very powerful/
 扮死狗 {bạn sỷ cẩu} /to act as if one doesn't know something/
 扮死蟹 {bạn sỷ hãi} /to play dead/
-扮老醒 {bạn lỗ sỉnh} /to act as if one is so smart and knows it all/
+扮老醒 {bạn lãu sỉnh} /to act as if one is so smart and knows it all/
 扮蠢 {bạn xuẩn} /to act as if one is stupid; to play ignorance/
 扮豪 {bạn hàu} /to act as if one is wealthy/
 扯ｌｉｎ旗 {xẻ liền khỳ} /to have one's nipple get stiff/
@@ -23639,7 +23639,7 @@
 按揭貸款 {ón khiết thái phủn} /mortgage loan/
 按摩浴缸 {ón mo dục cong} /a jacuzzi/
 挑你屎忽 {thiêu nỹ sỉ phât} /euphemism for 𨳒你屎忽, up yours/
-挑你老母 {thiêu nỹ lỗ mổ} /euphemism for 𨳒你老母, 'fuck your mother', foul language insulting one's mother when cursing someone/
+挑你老母 {thiêu nỹ lãu mổ} /euphemism for 𨳒你老母, 'fuck your mother', foul language insulting one's mother when cursing someone/
 挑你鹵味 {thiêu nỹ lỗ mỷ} /euphemism for 𨳒你老母, 'fuck your mother', foul language insulting one's mother when cursing someone/
 挑戰性 {thiêu chiến sính} /challenge; challenging/
 挑機 {thiêu ky} /to challenge, especially in online or video games, but it can also be used outside this context for competitive games or fights/
@@ -23779,7 +23779,7 @@
 擳人 {chit nhần} /to tickle someone/
 擸架生 {láp kả xanh} /to grab one's tools or instruments/
 擺彩 {bải xỏi} /to compete for reputation/
-擺老門 {bải lỗ mùn} /to set up a trap to trick someone/
+擺老門 {bải lãu mùn} /to set up a trap to trick someone/
 擺薄落 {bải bọc loc} /to set a road block; to set up a speed trap/
 擺街邊 {bải kai biên} /to display items on the floor by the sidewalk for sale/
 擺門 {bải mùn} /to set up a trap to trick someone/
@@ -24053,7 +24053,7 @@
 死柒開 {sỷ xật hoi} /fuck off!/
 死淨把口 {sỷ chịnh bả hẩu} /to never stop talking; to talk too much/
 死碼 {sỷ mã} /dead chips, gambling chips that cannot be exchanged for money which must be used within the casino/
-死老嘢 {sỷ lỗ dẽ} /old bastard/
+死老嘢 {sỷ lãu dẽ} /old bastard/
 死肥佬 {sỷ phỳ lổ} /fat bastard/
 死肥閪 {sỷ phỳ hê} /stupid fat cunt/
 死艇 {sỷ thẽng} /a broken down vehicle, especially a taxi/
@@ -24156,7 +24156,7 @@
 海上鮮 {hỏi sượng siên} /a commodity which has a variable price that is subject to change/
 海軍鬥水兵 {hỏi quân đấu sủi binh} /a match between two parties that are are both mediocre/
 海鮮餐 {hỏi siên xan} /literally: seafood meal; a commodity which has a variable price that is subject to change/
-淆老襯 {ngào lỗ xấn} /an expression used by fellow criminals to mock fellow criminals who have gone 'straight' to earn a living through honest means/
+淆老襯 {ngào lãu xấn} /an expression used by fellow criminals to mock fellow criminals who have gone 'straight' to earn a living through honest means/
 淋ｂａｔｂａｔ {nầm bẹt bẹt} /soft and mushy; docile; meek/
 淫媒 {dầm mồi} /an intermediary who introduces sexual partners to people who are wealthy or in important roles in order to earn commission or gain some sort of beneits/
 混噩 {vận ngọc} /muddled/
@@ -24181,7 +24181,7 @@
 澳門朋友 {ố mủn pằng dẫu} /literally: “Macau friend”, euphemism for ”麻㞗煩”, “fucking annoying”/
 澳門街 {ố mủn kai} /the streets of Macau/
 澳門風扇 {ố mủn phung siến} /literally: “Macau fan”, euphemism for ”麻㞗煩”, “fucking annoying”/
-激死老豆搵山拜 {kich sỷ lỗ đậu vẩn san bái} /to provoke one's father so much that it drives one's father to an early grave/
+激死老豆搵山拜 {kich sỷ lãu đậu vẩn san bái} /to provoke one's father so much that it drives one's father to an early grave/
 激漲法 {kich chướng phát} /the technique to provoke someone to do something by challenging them/
 激脹法 {kich chướng phát} /the technique to provoke someone to do something by challenging them/
 激鬼氣 {kich qủy hý} /so annoying!; so irritating/
@@ -24234,7 +24234,7 @@
 照版煮碗 {chiếu bản chử vủn} /to imitate/
 照顧自己 {chiếu cú chị kỷ} /to take care of oneself; to look after oneself/
 煩死 {phàn sỷ} /to be very irritated | annoyed | vexed/
-煲老茄 {bô lỗ khẻ} /a younger woman in a relationship with a much older man/
+煲老茄 {bô lãu khẻ} /a younger woman in a relationship with a much older man/
 煲起 {bô hỷ} /to completely destroy | crush one's enemy/
 蒸發作用 {chinh phát chóc dụng} /evaporation/
 熟地方 {sục đỵ phong} /a familiar place/
@@ -24242,7 +24242,7 @@
 熟片 {sục piển} /a completed film/
 熟過頭 {sục quó thầu} /overcooked; overdone/
 熬底 {ngào để} /to chicken out/
-熬老襯 {ngào lỗ xấn} /an expression used by fellow criminals to mock fellow criminals who have gone 'straight' to earn a living through honest means/
+熬老襯 {ngào lãu xấn} /an expression used by fellow criminals to mock fellow criminals who have gone 'straight' to earn a living through honest means/
 熱死 {diệt sỷ} /boiling hot; scorching; too hot/
 熱燈 {diệt đăng} /a heat lamp/
 燉冬菰 {đận đung cu} /demotion; to be demoted/
@@ -24420,7 +24420,7 @@
 發羊癲閒 {phát dường điên kán} /epilepsy/
 發羊癲風 {phát dường điên phung} /epilepsy/
 發羊角風 {phát dường kóc phung} /epilepsy/
-發老姣 {phát lỗ hào} /for an old woman to be act promiscuously | flirtatiously/
+發老姣 {phát lãu hào} /for an old woman to be act promiscuously | flirtatiously/
 發花癲 {phát pha điên} /to act flirtatiously/
 發過豬啼 {phát quó chư thề} /to get very rich; to make | win a lot of money/
 白天鵝 {bạch thiên ngò} /white swan ; to nag all day long/
@@ -24430,7 +24430,7 @@
 白牌 {bạch pải} /an unlicensed | illegal taxi/
 白犀 {bạch sê} /white rhinoceros/
 白紙扇 {bạch chỉ siến} /white paper fan, someone who acts as an advisor in a triad gang/
-白老鼠 {bạch lỗ sử} /a guinea pig, a person or thing used as a subject for experiment/
+白老鼠 {bạch lãu sử} /a guinea pig, a person or thing used as a subject for experiment/
 白過 {bạch quó} /to have wasted one's time and not accomplished anything/
 白邊 {bạch biên} /white border; white edge; white side/
 白雪雪滑捋捋 {bạch sưt sưt vạt lưt lưt} /very white and smooth/
@@ -24458,7 +24458,7 @@
 目錄表 {mục lục biểu} /a catalogue/
 盲中中 {mành chung chung} /to do things blindly; to not look where one is going/
 盲字都唔識多隻 {mành țụ̆ đô m̀ sich đo țụ̆} /illiterate/
-盲拳打死老師父 {mành khuyền đả sỷ lỗ si phủ} /to defeat a more skilful or experienced person by sheer fluke/
+盲拳打死老師父 {mành khuyền đả sỷ lãu si phủ} /to defeat a more skilful or experienced person by sheer fluke/
 盲炳 {mành bỉnh} /an idiot; an useless person/
 直畢甩 {chịch bât lât} /being straight to the point; perfectly straight; bolt upright/
 相嗌唔好口 {sương ái m̀ hảu hẩu} /for the sake of peace, bury the hatchet/
@@ -24648,36 +24648,36 @@
 義堂 {dị thỏng} /a poor house ; a charity house/
 義氣博兒戲 {dị hý bóc dì hy} /loyalty makes one vulnerable to betrayal/
 義氣搏兒戲 {dị hý bóc dì hy} /loyalty makes one vulnerable to betrayal/
-老人中心 {lỗ nhần chung sâm} /an eldery centre/
-老冧 {lỗ nâm} /number (of a prisoner | policeman)/
-老友記 {lỗ dẫu ký} /very close friend/
-老同 {lỗ thùng} /someone with the same name or similar name; fellow mates who are of the same age; a fellow drug addict; a homosexual; an associate; a “crony”; a fellow inmate/
-老吹 {lỗ xui} /to bullshit; to talk nonsense/
-老味 {lỗ mỵ} /weapons; euphemism for 老母, a vulgar way to refer to one's mother/
-老嚙嚙 {lỗ ngẹt ngẹt} /very old (age)/
-老坑婆 {lỗ hanh pỏ} /a derogatory term to address an old woman/
-老奀茄 {lỗ ngân khẻ} /a small, thin, wrinkled person; a old person who is small and thin like a child/
-老奉 {lỗ phủng} /to take something | someone for granted/
-老契 {lỗ khế} /a former lover; a regular customer of a prostitute/
-老姑婆 {lỗ cu pò} /an old spinster/
-老婆乸 {lỗ pò nả} /old woman; beldam/
-老媼 {lỗ ổ} /old woman; beldam/
-老屎忽 {lỗ sỉ phât} /the elders; the senior member of a triad society; an experience and crafty person/
-老廟 {lỗ miểu} /Temple street, a street in Hong Kong/
-老強 {lỗ khường} /rape; sexually assault by force/
-老散 {lỗ sản} /a police constable/
-老旺 {lỗ vọng} /Mongkok, Hong Kong/
-老棚 {lỗ pành} /associates; friends/
-老母雞 {lỗ mỗ kê} /old bitch; old bag, an insulting term for a woman/
-老狀 {lỗ chọng} /a solicitor; a lawyer/
-老的 {lỗ đich} /a taxi/
-老相好 {lỗ sương hảu} /an ex-lover/
-老糠都搾出油 {lỗ hong đô chá xuât dầu} /to be overly tight with money; to squeeze every drop of money from someone who is already very poor/
-老襯底 {lỗ xấn để} /a fool; a naïve person who can be easily deceived | tricked/
-老謀 {lỗ mầu} /a murderer/
-老軍 {lỗ quân} /an uniformed police/
-老閪 {lỗ hê} /old cunt; old pussy/
-老鼠拉龜 {lỗ sử lai quy} /don't know where to start; don't know how to handle/
+老人中心 {lãu nhần chung sâm} /an eldery centre/
+老冧 {lãu nâm} /number (of a prisoner | policeman)/
+老友記 {lãu dẫu ký} /very close friend/
+老同 {lãu thùng} /someone with the same name or similar name; fellow mates who are of the same age; a fellow drug addict; a homosexual; an associate; a “crony”; a fellow inmate/
+老吹 {lãu xui} /to bullshit; to talk nonsense/
+老味 {lãu mỵ} /weapons; euphemism for 老母, a vulgar way to refer to one's mother/
+老嚙嚙 {lãu ngẹt ngẹt} /very old (age)/
+老坑婆 {lãu hanh pỏ} /a derogatory term to address an old woman/
+老奀茄 {lãu ngân khẻ} /a small, thin, wrinkled person; a old person who is small and thin like a child/
+老奉 {lãu phủng} /to take something | someone for granted/
+老契 {lãu khế} /a former lover; a regular customer of a prostitute/
+老姑婆 {lãu cu pò} /an old spinster/
+老婆乸 {lãu pò nả} /old woman; beldam/
+老媼 {lãu ổ} /old woman; beldam/
+老屎忽 {lãu sỉ phât} /the elders; the senior member of a triad society; an experience and crafty person/
+老廟 {lãu miểu} /Temple street, a street in Hong Kong/
+老強 {lãu khường} /rape; sexually assault by force/
+老散 {lãu sản} /a police constable/
+老旺 {lãu vọng} /Mongkok, Hong Kong/
+老棚 {lãu pành} /associates; friends/
+老母雞 {lãu mỗ kê} /old bitch; old bag, an insulting term for a woman/
+老狀 {lãu chọng} /a solicitor; a lawyer/
+老的 {lãu đich} /a taxi/
+老相好 {lãu sương hảu} /an ex-lover/
+老糠都搾出油 {lãu hong đô chá xuât dầu} /to be overly tight with money; to squeeze every drop of money from someone who is already very poor/
+老襯底 {lãu xấn để} /a fool; a naïve person who can be easily deceived | tricked/
+老謀 {lãu mầu} /a murderer/
+老軍 {lãu quân} /an uniformed police/
+老閪 {lãu hê} /old cunt; old pussy/
+老鼠拉龜 {lãu sử lai quy} /don't know where to start; don't know how to handle/
 而唔係 {dì m̀ hệ} /and not; instead of; rather than/
 耐唔時 {nọi m̀ sì} /occasionally/
 耳不聽，心不煩 {dĩ băt thing, sâm băt phàn} /out of sight, out of mind/
@@ -24722,7 +24722,7 @@
 臣臣地 {sần sẩn đỷ} /strange; weird; odd/
 臥底行動 {ngọ để hằng đụng} /an undercover operation; a sting operation/
 臨班 {lấm ban} /to repeat a year of study at school/
-臨老唔過得世 {lầm lỗ m̀ quó đăc sế} /to be uanable to spend one's final years of life in comfort/
+臨老唔過得世 {lầm lãu m̀ quó đăc sế} /to be uanable to spend one's final years of life in comfort/
 自動轉賬 {țụ̆ đụng chuyển chướng} /automatic bank transfer; direct deposit/
 自己做 {țụ̆ kỷ chộ} /do it yourself; DIY/
 自己執生 {țụ̆ kỷ châp sanh} /to tread carefully; to watch oneself; to take care of oneself/
@@ -24832,8 +24832,8 @@
 行Ｑ開 {hành khiu hoi} /fuck off/
 行先一步 {hành siên yât bộ} /to pass away/
 行必 {hành bit} /to patrol/
-行老文 {hành lỗ mần} /a pick pocket/
-行老正 {hành lỗ chéng} /to swindle/
+行老文 {hành lãu mần} /a pick pocket/
+行老正 {hành lãu chéng} /to swindle/
 行返轉頭 {hành phan chuyến thầu} /to turn back/
 街尾 {kai mỹ} /the end of a street/
 街鐘 {kai chung} /the hourly rate to take a nightclub hostess out of a bar/
@@ -24890,7 +24890,7 @@
 講三字經 {kỏng ŧam țụ̆ kinh} /to swear/
 講乜撚嘢 {kỏng mât lẩn dẽ} /what the fuck are you talking about; what are you bullshitting about/
 講乜春呀 {kỏng mât xuân á} /what the fuck are you talking about; what are you bullshitting about/
-講你老母 {kỏng nỹ lỗ mổ} /just fucking shut up/
+講你老母 {kỏng nỹ lãu mổ} /just fucking shut up/
 講口唔講手 {kỏng hẩu m̀ kỏng sẩu} /all talk and no action/
 講句駁句 {kỏng cứ bóc cứ} /to keep talking back; to keep arguing back/
 講唔埋欄 {kỏng m̀ mài lan} /to be unable to find common grounds for discussion/
@@ -24903,7 +24903,7 @@
 講講 {kỏng kỏng} /to talk/
 講鬼話 {kỏng qủy vả} /to talk nonsense/
 謝玉堂 {chẹ dục thòng} /Xie Yutang, a politician in China/
-識...老鼠 {sik… lỗ sử} /to not know or recognise someone who is suppose to be someone important | with high status/
+識...老鼠 {sik… lãu sử} /to not know or recognise someone who is suppose to be someone important | with high status/
 識ｄｏ {sich đu} /'Smart - knows what to do' (usually said in a complimentary way to describe someone who knows how to behave appropriately in a certain situation or is very skilful in handling tricky circumstances); to be tactful; to be suave; to know the right way to proceed/
 識少少，扮代表 {sich siểu siủ, bạn đọi biểu} /describes someone who thinks he or she know it all when in reality he | she don't know much/
 譭謗 {vỷ póng} /to defame; to slander/
@@ -25326,9 +25326,9 @@
 飲到大大哋 {dẩm đố đại đải đỷ} /to be drunk/
 飽肚食 {bảo thỗ sịch} /to eat | take on a full stomach/
 養草皮 {dưỡng xổ pỳ} /to make a loss in a gamble on horse racing/
-餓死老婆瘟臭屋 {ngọ sỷ lỗ pò vân xấu uc} /to be unable to earn enough money to feed one's wife/
-餓死老婆薰臭屋 {ngọ sỷ lỗ pò phân xấu uc} /to be unable to earn enough money to feed one's wife/
-餵老虎（機） {vý lỗ phủ（ kei）} /to insert coins into a parking meter/
+餓死老婆瘟臭屋 {ngọ sỷ lãu pò vân xấu uc} /to be unable to earn enough money to feed one's wife/
+餓死老婆薰臭屋 {ngọ sỷ lãu pò phân xấu uc} /to be unable to earn enough money to feed one's wife/
+餵老虎（機） {vý lãu phủ（ kei）} /to insert coins into a parking meter/
 餵飽 {vý bảo} /to satisfy one's hunger; to satisfy someone's sexual appetite/
 饌死你 {chạnh sỷ nỹ} /'to stuff yourself to death', a saying to imply that someone is eating too much or being too greedy with something/
 饌飽 {chạnh bảo} /to be full up/
@@ -25638,7 +25638,7 @@
 你 {nỹ} /you | can be used to refer to an unspecified person | # adapted from cc-cedict/
 佩 {pối} /to respect | admire | to wear (belt etc) | belt ornament | pendant | to be fit for | to match with | # adapted from cc-cedict/
 佬 {lổ} /male (usually old) | man | guy | bloke | dude (Cantonese) | a vulgar person | # adapted from cc-cedict/
-佬 {lỗ} /male (usually old) | man | guy | bloke | dude (Cantonese) | a vulgar person | # adapted from cc-cedict/
+佬 {lãu} /male (usually old) | man | guy | bloke | dude (Cantonese) | a vulgar person | # adapted from cc-cedict/
 佬 {liều} /male (usually old) | man | guy | bloke | dude (Cantonese) | a vulgar person | # adapted from cc-cedict/
 佮 {cấp} /with | combined | # adapted from cc-cedict/
 佮 {đạp} /with | combined | # adapted from cc-cedict/
@@ -25784,7 +25784,7 @@
 僚 {liều} /bureaucrat | colleague | officials | companion | a surname | # adapted from cc-cedict/
 僚 {liều} /same as嫽, play with | # adapted from cc-cedict/
 僚 {liễu} /same as嫽, play with | # adapted from cc-cedict/
-僚 {lỗ} /a generic term for some ethnic minorities | # adapted from cc-cedict/
+僚 {lãu} /a generic term for some ethnic minorities | # adapted from cc-cedict/
 僭 {xiếm} /to usurp | to assume | # adapted from cc-cedict/
 僭 {xiễm} /to usurp | to assume | # adapted from cc-cedict/
 僭 {chiếm} /to usurp | to assume | # adapted from cc-cedict/
@@ -27199,7 +27199,7 @@
 姣 {kảo} /cunning | pretty | beautiful | graceful | # adapted from cc-cedict/
 姣 {hào} /flirtatious | coquettish | promiscuous | sexy | slutty | horny | # adapted from cc-cedict/
 姤 {cấu} /copulate | good | to encounter | # adapted from cc-cedict/
-姥 {lỗ} /grandma (maternal) | wife | # adapted from cc-cedict/
+姥 {lãu} /grandma (maternal) | wife | # adapted from cc-cedict/
 姥 {mỗ} /old woman | husband's mother | # adapted from cc-cedict/
 姨 {dì} /mother's sister | aunt | concubine | one's wife's sister | a general term of address for an older female who is around the same age as one's mum | # adapted from cc-cedict/
 姨 {di} /mother's sister | aunt | concubine | one's wife's sister | a general term of address for an older female who is around the same age as one's mum | # adapted from cc-cedict/
@@ -29803,7 +29803,7 @@
 潦 {liểu} /sloppy | careless | perfunctory | without care | # adapted from cc-cedict/
 潦 {liều} /sloppy | careless | perfunctory | without care | # adapted from cc-cedict/
 潦 {liễu} /sloppy | careless | perfunctory | without care | # adapted from cc-cedict/
-潦 {lỗ} /flooded | heavy rain | puddles | frustrated | dejected | down and out | # adapted from cc-cedict/
+潦 {lãu} /flooded | heavy rain | puddles | frustrated | dejected | down and out | # adapted from cc-cedict/
 潦 {lộ} /inundate | torrent | # adapted from cc-cedict/
 潭 {thàm} /deep pool | pond | pit (dialect) | depression | lake | profound | hole in the ground | # adapted from cc-cedict/
 潮 {xiều} /tide | current | damp | moist | humid | wet | flow | inferior in skill or fineness | trendy | up-to-date | # adapted from cc-cedict/
@@ -30152,7 +30152,7 @@
 獎 {chưởng} /prize | award | encouragement M: 个gè | reward | to reward | to award | to praise | to commend | to give financial assistance to | # adapted from cc-cedict/
 獗 {khuyết} /unruly | rude | wild | violent | lawless | # adapted from cc-cedict/
 獠 {liều} /fierce | night hunt | name of a tribe | monster | wicked | fiendish | # adapted from cc-cedict/
-獠 {lỗ} /abusive remarks used in the past | # adapted from cc-cedict/
+獠 {lãu} /abusive remarks used in the past | # adapted from cc-cedict/
 獦 {cót} /a type of large wolf | a derogatory term for the name of a tribe in the past | # adapted from cc-cedict/
 獦 {hót} /an alternative form for 猲,dog with a short snout | # adapted from cc-cedict/
 獦 {hiết} /an alternative form for 猲,dog with a short snout | # adapted from cc-cedict/
@@ -30629,7 +30629,7 @@
 知 {chi} /to know | to be aware | to perceive | to comprehend | knowledge | to feel | to sense | a close friend | to be friends for a long time | to recignize | to be an expert in a certain field | to communicate officially | to be in charge of office | to inform | to notify | to tell | # adapted from cc-cedict/
 知 {chí} /an alternative form for 智,wisdom | # adapted from cc-cedict/
 矧 {xẩn} /(interrog.) | besides | not to speak of | much more | still more | the gums | # adapted from cc-cedict/
-矩 {củi} /carpenter's square | rule | regulation | pattern | to carve | a ruler for drawing squares or rectangles | rectangle | moment (physics) | # adapted from cc-cedict/
+矩 {cử} /carpenter's square | rule | regulation | pattern | to carve | a ruler for drawing squares or rectangles | rectangle | moment (physics) | # adapted from cc-cedict/
 矬 {xò} /short | dwarfish | ugly | bend | # adapted from cc-cedict/
 短 {đuỏn} /short | brief | to lack | weak point | fault | deficient | lacking | shortcomings | mistakes | to owe | unwise | inadequate | insufficient | # adapted from cc-cedict/
 矮 {ải} /low | short (in length) | dwarf | # adapted from cc-cedict/
@@ -31374,8 +31374,8 @@
 翹 {khiều} /tall feather | a woman's hair decoration | to lift up | to elevate | to raise | bent | upturned | to become warped | outstanding | # adapted from cc-cedict/
 翻 {phan} /to turn over | to flip over | to overturn | to rummage through | to translate | to decode | to double | to climb over or into | to cross | to upset | to capsize | to turn around | reverse | to rip off and repair | to innovate | to fall out | to multiply | an alternative version to返, to return | # adapted from cc-cedict/
 耀 {diệu} /brilliant | glorious | shine | sparkle | dazzle | glory | brightness | to shine | shining | to show off | radiance | # adapted from cc-cedict/
-老 {lỗ} /prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity | old (of people) | venerable (person) | experienced | of long standing | always | all the time | of the past | very | outdated | (of meat etc) tough | old age | abbreviation for Laotse, the founder of Taoism | a surname | to retire from official service | to become old | to honor the aged | shameless, thick-skinned | familiar term of respect for elderly people | decrepit | hardened | steady | trustworthy | dark | deep (colour) | youngest (in Beijing dialect) | parents | # adapted from cc-cedict/
-耂 {lỗ} /variant of radical 125 | # adapted from cc-cedict/
+老 {lãu} /prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity | old (of people) | venerable (person) | experienced | of long standing | always | all the time | of the past | very | outdated | (of meat etc) tough | old age | abbreviation for Laotse, the founder of Taoism | a surname | to retire from official service | to become old | to honor the aged | shameless, thick-skinned | familiar term of respect for elderly people | decrepit | hardened | steady | trustworthy | dark | deep (colour) | youngest (in Beijing dialect) | parents | # adapted from cc-cedict/
+耂 {lãu} /variant of radical 125 | # adapted from cc-cedict/
 者 {chẻ} /(after a verb or adjective) one who (is) ... | (after a noun) person involved in ... | -er | -ist | (used after a number or 后hòu or 前qián to refer to sth mentioned previously) | (used after a term, to mark a pause before defining the term) | (old) (used at the end of a command) | (old) this | a surname | denoting a portion | this | these | yes, yes! (exclamation) | # adapted from cc-cedict/
 耆 {khỳ} /man of sixty or seventy | aged | old | elderly | brave | high handed | to hate | # adapted from cc-cedict/
 耆 {sí} /and alternative form for 嗜, to like | # adapted from cc-cedict/
@@ -31631,7 +31631,7 @@
 興 {hinh} /to get up | to rise | to prosper | to prevail | to be popularly accepted | to cause to rise | to allow | prosperous | popular | to launch | to promote | thriving | to become fashionable | # adapted from cc-cedict/
 興 {hính} /feeling or desire to do sth | interest in sth | excitement | to celebrate | # adapted from cc-cedict/
 興 {dận} /an alternative form for 釁, rift | # adapted from cc-cedict/
-舉 {củi} /to lift | to hold up | to cite | to enumerate | to act | to raise | to choose | to elect | an act | a move | a deed | an action | to initiate | to undertake | to nominate | to recommend | to praise | to give birth to | to erect | to suggest | all of | deportment | # adapted from cc-cedict/
+舉 {cử} /to lift | to hold up | to cite | to enumerate | to act | to raise | to choose | to elect | an act | a move | a deed | an action | to initiate | to undertake | to nominate | to recommend | to praise | to give birth to | to erect | to suggest | all of | deportment | # adapted from cc-cedict/
 舊 {cậu} /old | opposite: new 新 | former | worn (with age) | hundred bucks | a lump, a quantifier | # adapted from cc-cedict/
 舋 {dấn} /variant of釁 | quarrel | dispute | a blood sacrifice (arch.) | # adapted from cc-cedict/
 舋 {dận} /variant of釁 | quarrel | dispute | a blood sacrifice (arch.) | # adapted from cc-cedict/
@@ -34230,7 +34230,7 @@
 黎明 {Lề mình} /Leon Lai (Cantonese pop singer)/
 踭 {chanh} /elbow | heel/
 瞓覺 {phấn káo} /sleep/
-老布殊 {Lỗ Bóusừ} /George H.W. Bush/
+老布殊 {lãu Bóusừ} /George H.W. Bush/
 𤘅 {ngà} /a very young child | baby | # adapted from cc-cedict/
 𢪎 {phách} /to whip (egg | cream) | to expand (a business) | to whip someone (with a stick) | # adapted from cc-cedict/
 拉布 {lai bố} /filibuster/
